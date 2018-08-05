@@ -17,7 +17,7 @@ title: Jayme Hoffman
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jayme Hoffman's blog posts and links on entrepreneuship.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jaymehoffman" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jhoff
 
