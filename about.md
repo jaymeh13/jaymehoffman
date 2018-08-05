@@ -13,4 +13,4 @@ Jayme Hoffman is an entrepreneur, husband and soon-to-be father. His mission is 
 #### Past
 * 2012 Co-founder & CEO, [Acacia Interactive](https://angel.co/acacia)
 * 2015 CEO, Second Chance Technologies (BuyHappy)
-* 2016 Co-founder & CEO, [Homeward](https://homeward.io/) (Acquired by Keller Williams, Realty)
+* 2016 Co-founder & CEO, [Homeward](https://homeward.io/) (Acquired by Keller Williams Realty)
