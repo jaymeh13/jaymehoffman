@@ -73,7 +73,7 @@ Here’s a list of proven models (Amazon of X) that can be transported to other 
 		* E-cycle 
 * Red Ventures of X = Lead generation
 	* playbook
-		* acquire leads (witch content)
+		* acquire leads (with content or ads)
 		* sell leads
 	* examples
 		* Technology Advice
