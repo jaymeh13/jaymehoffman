@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sunbird Approach - Transplanting Proven Solutions
+title:  Sunbird Approach - Transporting Proven Models
 permalink: /sunbird-approach/
 date:   2018-08-04 11:54:16 -0500
 categories:
@@ -10,26 +10,32 @@ I [recently discovered](https://twitter.com/jhoff/status/1024103136536014853) th
 
 Instead, the founders wanted to create "The Amazon of X," and settled on DVDs...
 
-This is not a bad thing at all.
+This is not a bad thing.
 
-The book [Creators’s Code](https://www.amazon.com/Creators-Code-Essential-Extraordinary-Entrepreneurs/dp/1451666071) classifies the founding of Netflix as a Sunbird Approach.
+The book [Creators’s Code](https://www.amazon.com/Creators-Code-Essential-Extraordinary-Entrepreneurs/dp/1451666071) classifies the Netflix founding story as a Sunbird Approach.
 
-> Sunbird approach - Here, an entrepreneur takes a solution that has proven effective in one place and transplants it to another, often with a twist.
+> Sunbirds transport solutions that work in one area and apply them to another, often with a twist. 
 
-#### Proven solutions to transport:
+> Sunbirds take something that already exists and transport the model to create something new. they relocate and reshape existing concepts across geographies and industries, and bring old ideas up to date. 
+
+> They examine how and why it worked initially, and what similarities or differences will make it work again. 
+
+Here’s a list of proven models (Amazon of X) that can be transported to other markets. 
+
+
+#### Proven models to transport:
 
 * Glossier of X = Content/Community + Commerce
 	* playbook
-		* create content & community around an area of life
-		* sell stuff and/or services
+		* grow content & community around an area of life
+		* sell stuff and/or services to community 
 	* examples
 		* Goop
 		* DrAxe
-		* Houzz
 * Yeti of X = Direct to Consumer Brand
 	* playbook
 		* upgrade stale product category
-		* create brand
+		* create a brand
 	* examples
 		* Warby Parker
 		* Harrys
@@ -49,16 +55,27 @@ The book [Creators’s Code](https://www.amazon.com/Creators-Code-Essential-Extr
 		* grow subscribers
 	* examples
 		* Headspace
-		* Scotts cheap flights
 		* Peloton
 		* Blinkist
+* Airbnb of X = Marketplace
+	* playbook
+		* aggregate suppliers
+		* grow GMV
+	* examples
+		* Breather
+		* OYO
+* CarMax of X = Reselling
+	* playbook
+		* buy asset at a discount
+		* sell asset for a profit
+	* examples
+		* Opendoor
+		* E-cycle 
 * Red Ventures of X = Lead generation
 	* playbook
-		* create a funnel
-		* grow top of funnel
+		* acquire leads (witch content)
+		* sell leads
 	* examples
 		* Technology Advice
 		* Nerdwallet
-		* Zillow
-		* Alibaba
-		* Buildzoom
+

@@ -639,6 +639,10 @@ a:hover {
   padding: 0 0;
   flex: 1; }
 
+.post-list-heading {
+  font-size: 32px;
+  font-weight: 500; }
+
 /**
  * Wrapper
  */
