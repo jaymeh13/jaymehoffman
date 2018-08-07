@@ -1,9 +1,8 @@
 ---
+title: Two Paths to Product Market Fit
+date: 2018-08-07 00:00:00 Z
+permalink: "/two-paths-to-product-market-fit/"
 layout: post
-title:  Two Paths to Product Market Fit 
-permalink: /two-paths-to-product-market-fit/
-date:   2018-08-07 
-categories:
 ---
 
 ### What is product market fit?

@@ -1,9 +1,8 @@
 ---
+title: Sunbird Approach - Transporting Proven Models
+date: 2018-08-04 16:54:16 Z
+permalink: "/sunbird-approach/"
 layout: post
-title:  Sunbird Approach - Transporting Proven Models
-permalink: /sunbird-approach/
-date:   2018-08-04 11:54:16 -0500
-categories:
 ---
 
 I [recently discovered](https://twitter.com/jhoff/status/1024103136536014853) that Netflix was NOT founded because Blockbuster charged Reed Hastings with a $40 late fee for "Apollo 13"
