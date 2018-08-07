@@ -25,14 +25,14 @@ Here’s a list of proven models (Amazon of X) that can be transported to other 
 
 #### Proven models to transport:
 
-* Glossier of X = Content/Community + Commerce
+* Glossier of X = [Content + Commerce](https://www.inc.com/emily-canal/glossier-2017-company-of-the-year-nominee.html)
 	* playbook
 		* grow content & community around an area of life
 		* sell stuff and/or services to community 
 	* examples
 		* Goop
 		* DrAxe
-* Yeti of X = Direct to Consumer Brand
+* Yeti of X = [Direct to Consumer Brand](https://www.businessinsider.com/online-direct-to-consumer-brands-with-retail-stores-locations-2018-2)
 	* playbook
 		* upgrade stale product category
 		* create a brand
@@ -41,7 +41,14 @@ Here’s a list of proven models (Amazon of X) that can be transported to other 
 		* Harrys
 		* Away
 		* Outdoor Voices
-* Salesforce of X = Saas
+* Houzz of X = [Market Network](https://www.nfx.com/post/10-years-about-market-networks)
+	* playbook
+		* create a network
+		* add marketplace/saas functionality
+	* examples
+		* Honeybook
+		* AngelList
+* Salesforce of X = [Saas](https://twitter.com/davidcummings/status/1019549219630305285)
 	* playbook
 		* create software in path of revenue or mission critical workflow
 		* sell, sell, sell
@@ -49,7 +56,7 @@ Here’s a list of proven models (Amazon of X) that can be transported to other 
 		* Hubspot
 		* Pardot
 		* Segment
-* Netflix of X = Subscription content
+* Netflix of X = [Subscription content](https://www.inc.com/magazine/201605/kris-frieswick/peloton-studio-cycling-home-fitness.html)
 	* playbook
 		* create/aggregate content
 		* grow subscribers
@@ -57,7 +64,7 @@ Here’s a list of proven models (Amazon of X) that can be transported to other 
 		* Headspace
 		* Peloton
 		* Blinkist
-* Airbnb of X = Marketplace
+* Airbnb of X = [Marketplace](https://andrewchen.co/marketplace-startups-best-essays/)
 	* playbook
 		* aggregate suppliers
 		* grow GMV
