@@ -1,6 +1,6 @@
 ---
 title: Good Markets
-date: 2018-08-07 00:00:00 Z
+date: 2018-08-08
 permalink: "“/good-markets/“"
 layout: post
 ---
