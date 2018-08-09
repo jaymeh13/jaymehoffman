@@ -7,7 +7,7 @@ layout: post
 
 According to Marc Andreesen, “product/market fit means being in a Good Market with a product that can satisfy that market.” 
 
-What defines a Good Market?
+We know the importance of PMF but what defines a Good Market?
 
 
 
