@@ -517,6 +517,12 @@ ul, ol, dl, figure,
   margin-bottom: 15px;
   line-height: 1.7; }
 
+  /**
+   * Headings
+*/
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500; }
+
 /**
  * Links
  */
@@ -543,10 +549,10 @@ a:hover {
 .site-header {
   border-top: none;
   border-bottom: none;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px; }
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px; }
 
 .site-logo img {
   width: 50px;
@@ -573,9 +579,9 @@ a:hover {
 @media screen and (max-width: 600px) {
   .site-nav {
     position: absolute;
-    top: 9px;
-    right: 15px;
-    background-color: #fdfdfd;
+    top: 30px;
+    right: 20px;
+    background-color: #fff;
     border: 1px solid #e8e8e8;
     border-radius: 5px;
     text-align: right; }
@@ -610,7 +616,7 @@ a:hover {
 
   .site-nav .page-link {
     display: block;
-    padding: 5px 10px;
+    padding: 10px 10px;
     margin-left: 20px; }
 
   .site-nav .page-link:not(:last-child) {
@@ -623,11 +629,12 @@ a:hover {
   padding: 30px 0;
   position: relative;
   padding-left: 20px;
-  padding-right: 20px; }
+  padding-right: 25px; }
 
 .social-footer {
-  right: 20px;
-  position: absolute; }
+  right: 25px;
+  position: absolute;
+  bottom: 5px; }
 
 .p-footer {
   margin: 0 0 0 20px; }
@@ -658,8 +665,8 @@ a:hover {
   .wrapper {
     max-width: -webkit-calc(800px - (30px));
     max-width: calc(800px - (30px));
-    padding-right: 20px;
-    padding-left: 20px; } }
+    padding-right: 25px;
+    padding-left: 25px; } }
 /**
 * Twitter feed
 */
