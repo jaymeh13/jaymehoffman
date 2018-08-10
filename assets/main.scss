@@ -9,7 +9,9 @@
 */
 
 body {
+  font: 400 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background-color: #fff;
+  color: rgba(0,0,0,.84);
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -43,6 +45,22 @@ a {
       text-decoration: none; }
 
 
+
+/**
+ * Blockquotes
+ */
+blockquote {
+  color: #66757f;
+  border-left: 3px solid #66757f;
+  padding-left: 20px;
+  font-size: 18px;
+  letter-spacing: -.4px;
+  font-style: italic;
+  }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+
 /**
  * Site header
 */
@@ -55,6 +73,12 @@ a {
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+.site-nav .page-link {
+  color: #66757f;
+  line-height: 1.5;
+  font-size: 16px;
+  }
 
 .site-logo img {
   width: 50px;
@@ -70,7 +94,6 @@ a {
     .site-nav .menu-icon {
       display: none; }
     .site-nav .page-link {
-      color: #111;
       line-height: 1.5; }
       .site-nav .page-link:not(:last-child) {
         margin-right: 25px; }
@@ -142,10 +165,48 @@ a {
     padding: 0 0;
     flex: 1; }
 
-
 .post-list-heading {
   font-size: 32px;
 font-weight: 500; }
+
+.post-meta {
+  font-size: 14px;
+  color: #66757f; }
+
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: 30px; }
+
+.post-title {
+  font-size: 44px;
+  letter-spacing: -.2px;
+  line-height: 1; }
+  @media screen and (max-width: 800px) {
+    .post-title {
+      font-size: 38px; } }
+
+.post-content {
+  margin-bottom: 30px; }
+  .post-content h2 {
+    font-size: 34px; }
+    @media screen and (max-width: 800px) {
+      .post-content h2 {
+        font-size: 30px; } }
+  .post-content h3 {
+    font-size: 28px; }
+    @media screen and (max-width: 800px) {
+      .post-content h3 {
+        font-size: 24px; } }
+  .post-content h4 {
+    font-size: 22px; }
+    @media screen and (max-width: 800px) {
+      .post-content h4 {
+        font-size: 20px; } }
+
+
 /**
  * Wrapper
  */
@@ -163,7 +224,16 @@ font-weight: 500; }
       padding-right: 25px;
       padding-left: 25px; } }
 
-
+/**
+ * Icons
+ */
+.svg-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: #66757f;
+  padding-right: 5px;
+  vertical-align: text-top; }
 
 /**
 * Twitter feed
