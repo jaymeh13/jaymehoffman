@@ -7,7 +7,7 @@ layout: page
 Jayme Hoffman is an entrepreneur, husband and soon-to-be father. His mission is to build a happy family with his wife, Kate, and build customer obsessed companies with smart people that think long-term.
 
 #### Now
-* Helping Keller Williams Realty, the world's largest real estate company build consumer tech products.
+* Helping Keller Williams Realty, the world's largest real estate company, build consumer tech products.
 * Thinking about what to start next.
 
 
