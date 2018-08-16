@@ -1,7 +1,8 @@
 ---
-permalink: /updates/
+permalink: "/updates/"
 layout: page
 ---
+
 #### August 2018
 * [“Good Markets”](https://jaymeh13.github.io/jaymehoffman/good-markets/) are big, growing, rich, have existing solutions and fit their founders well.
 * There are only [two ways to get to PMF](https://jaymeh13.github.io/jaymehoffman/two-paths-to-product-market-fit/). Product first or market first. [Bezos preferred the latter](https://www.youtube.com/watch?v=rWRbTnE1PEM).
