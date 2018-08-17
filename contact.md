@@ -5,8 +5,8 @@ layout: page
 ---
 
 #### Social
-* [Twitter](https://twitter.com/jhoff)
-* [Medium](https://medium.com/@jhoff)
+* [Twitter](https://twitter.com/jaymehoffman)
+* [Medium](https://medium.com/@jaymehoffman)
 * [Linkedin](https://www.linkedin.com/in/jaymehoffman/)
 
 #### Email
