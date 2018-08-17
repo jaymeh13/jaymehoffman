@@ -2,6 +2,7 @@
 title: About
 permalink: "/about/"
 layout: page
+image: /assets/og-image.png
 ---
 
 Jayme Hoffman is an entrepreneur, husband and soon-to-be father. His mission is to build a happy family with his wife, Kate, and build customer obsessed companies with smart people that think long-term.

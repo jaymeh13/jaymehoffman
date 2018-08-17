@@ -9,10 +9,14 @@ collections:
     title: Uploads
     output: true
 email: your-email@example.com
+logo: /assets/jayme-hoffman-logo.png
+image: /assets/og-image.png
 description: Jayme Hoffman's blog
 baseurl: ''
 url: ''
 twitter_username: JaymeHoffman
+twitter:
+    username: JaymeHoffman
 markdown: kramdown
 theme: minima
 plugins:
