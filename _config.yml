@@ -15,7 +15,7 @@ image: /assets/og-image.png
 description: Jayme Hoffman's blog
 baseurl: ''
 url: ''
-twitter_username: JaymeHoffman
+twitter_username: jaymehoffman
 twitter:
   username: JaymeHoffman
 markdown: kramdown

@@ -508,7 +508,7 @@ table {
  * Basic styling
 */
 body {
-  font: 400 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 400 20px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background-color: #fff;
   color: rgba(0, 0, 0, 0.84); }
 
@@ -523,7 +523,7 @@ ul, ol, dl, figure,
    * Headings
 */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 500; }
+  font-weight: 600; }
 
 /**
  * Links
@@ -552,7 +552,7 @@ blockquote {
   color: rgba(0, 0, 0, 0.6);
   border-left: 2px solid rgba(0, 0, 0, 0.6);
   padding-left: 20px;
-  font-size: 18px;
+  font-size: 20px;
   letter-spacing: -.4px;
   font-style: italic; }
 
@@ -573,7 +573,7 @@ blockquote > :last-child {
 .site-nav .page-link {
   color: rgba(0, 0, 0, 0.6);
   line-height: 1.5;
-  font-size: 16px; }
+  font-size: 18px; }
 
 .site-logo img {
   width: 50px;
@@ -667,8 +667,8 @@ blockquote > :last-child {
   flex: 1; }
 
 .post-list-heading {
-  font-size: 32px;
-  font-weight: 500;
+  font-size: 34px;
+  font-weight: 600;
   margin-bottom: 20px; }
 
 .post-list h3 {
@@ -686,34 +686,34 @@ blockquote > :last-child {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 44px;
+  font-size: 46px;
   letter-spacing: -.2px;
   line-height: 1; }
 
 @media screen and (max-width: 800px) {
   .post-title {
-    font-size: 38px; } }
+    font-size: 40px; } }
 .post-content {
   margin-bottom: 30px; }
 
 .post-content h2 {
-  font-size: 34px; }
+  font-size: 36px; }
 
 @media screen and (max-width: 800px) {
   .post-content h2 {
-    font-size: 30px; } }
+    font-size: 32px; } }
 .post-content h3 {
-  font-size: 28px; }
+  font-size: 30px; }
 
 @media screen and (max-width: 800px) {
   .post-content h3 {
-    font-size: 24px; } }
+    font-size: 26px; } }
 .post-content h4 {
-  font-size: 22px; }
+  font-size: 24px; }
 
 @media screen and (max-width: 800px) {
   .post-content h4 {
-    font-size: 20px; } }
+    font-size: 22px; } }
 /**
  * Wrapper
  */
@@ -740,7 +740,7 @@ blockquote > :last-child {
   display: inline-block;
   fill: rgba(0, 0, 0, 0.6);
   padding-right: 5px;
-  vertical-align: text-top; }
+  vertical-align: baseline; }
 
 /**
 * Twitter feed
