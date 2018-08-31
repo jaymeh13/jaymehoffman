@@ -17,7 +17,7 @@ baseurl: ''
 url: ''
 twitter_username: jaymehoffman
 twitter:
-  username: JaymeHoffman
+  username: jaymehoffman
 markdown: kramdown
 theme: minima
 plugins:
