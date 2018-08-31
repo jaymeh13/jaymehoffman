@@ -1,7 +1,7 @@
 ---
 title: Quotes I Live By
 date: 2018-08-08 00:00:00 Z
-permalink: "“/quotes-i-live-by/“"
+permalink: "/quotes-i-live-by/"
 layout: post
 image: "“/assets/uploads/quotes.png”"
 description: Quotes and maxims Jayme Hoffman lives by.
