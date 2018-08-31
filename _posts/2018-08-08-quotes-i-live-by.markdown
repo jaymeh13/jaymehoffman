@@ -1,10 +1,10 @@
 ---
 title: Quotes I Live By
 date: 2018-08-08 00:00:00 Z
-permalink: “/quotes-i-live-by/“
+permalink: "“/quotes-i-live-by/“"
 layout: post
-image: “/assets/uploads/quotes.png”
-description: Quotes and maxims Jayme Hoffman lives by. 
+image: "“/assets/uploads/quotes.png”"
+description: Quotes and maxims Jayme Hoffman lives by.
 ---
 
 **Goal setting**: “*Give me a stock clerk with a goal and I’ll give you a man who will make history. Give me a man with no goals and I’ll give you a stock clerk*.” — J.C. Penney
