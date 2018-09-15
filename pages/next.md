@@ -1,5 +1,5 @@
 ---
-permalink: “/next/“
+permalink: "“/next/“"
 layout: page
 ---
 

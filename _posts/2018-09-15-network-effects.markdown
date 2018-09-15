@@ -1,11 +1,11 @@
 ---
 title: Top 8 Posts on Network Effects
-date: 2018-09-15 
-permalink: /network-effects/
-description: The top 8 posts on Network Effects every founder should read. By Jayme Hoffman
-image: “https://image.slidesharecdn.com/networkeffects-v6final-160307161248/95/network-effects-3-638.jpg”
+date: 2018-09-15 00:00:00 Z
+permalink: "/network-effects/"
+description: The top 8 posts on Network Effects every founder should read. By Jayme
+  Hoffman
+image: "“https://image.slidesharecdn.com/networkeffects-v6final-160307161248/95/network-effects-3-638.jpg”"
 layout: post
-
 ---
 
 Network Effects are the most powerful force in business. 
