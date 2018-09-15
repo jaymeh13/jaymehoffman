@@ -7,6 +7,7 @@ image: "“/assets/uploads/quotes.png”"
 description: Quotes and maxims Jayme Hoffman lives by.
 ---
 
+**What's next?**: "*Figure out what information, people or resource you need in life to get to the next level*." - Me
 **Goal setting**: “*Give me a stock clerk with a goal and I’ll give you a man who will make history. Give me a man with no goals and I’ll give you a stock clerk*.” — J.C. Penney
 
 **Asking questions**: “*Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go*.” — Clayton Christensen
@@ -36,4 +37,3 @@ description: Quotes and maxims Jayme Hoffman lives by.
 **Inversion**: “*It is not enough to think about difficult problems one way. You need to think about them forwards and backward*.” — Charlie Munger
 
 **Reflection**: "*Pain plus reflection equals progress*” — Ray Dalio
-

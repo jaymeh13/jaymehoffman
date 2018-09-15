@@ -1,4 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-18T03:46:25+00:00</updated><id>http://localhost:4000/</id><title type="html">Jayme Hoffman</title><subtitle>Jayme Hoffman's blog</subtitle><entry><title type="html">Good Markets</title><link href="http://localhost:4000/good-markets/" rel="alternate" type="text/html" title="Good Markets" /><published>2018-08-08T00:00:00+00:00</published><updated>2018-08-08T00:00:00+00:00</updated><id>http://localhost:4000/good-markets</id><content type="html" xml:base="http://localhost:4000/good-markets/">&lt;p&gt;According to Marc Andreesen, “product/market fit means being in a Good Market with a product that can satisfy that market.”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-15T22:47:57+00:00</updated><id>http://localhost:4000/</id><title type="html">Jayme Hoffman</title><subtitle>Jayme Hoffman's blog</subtitle><entry><title type="html">Top 8 Posts on Network Effects</title><link href="http://localhost:4000/network-effects/" rel="alternate" type="text/html" title="Top 8 Posts on Network Effects" /><published>2018-09-15T00:00:00+00:00</published><updated>2018-09-15T00:00:00+00:00</updated><id>http://localhost:4000/network-effects</id><content type="html" xml:base="http://localhost:4000/network-effects/">&lt;p&gt;Network Effects are the most powerful force in business.&lt;/p&gt;
+
+&lt;p&gt;They produced some of the most iconic products and companies ever. Examples: WhatsApp, Airbnb, Google, Amazon, Alibaba, Uber, ebay, Facebook, Opentable, WeChat and Twitter.&lt;/p&gt;
+
+&lt;p&gt;According to venture capital firm, NFX, network effects are responsible for 70% of the value created by tech companies since the Internet became a thing in 1994 🤯&lt;/p&gt;
+
+&lt;p&gt;Here are my favorite posts on Network Effects.&lt;/p&gt;
+
+&lt;h3 id=&quot;anu-hariharan-on-network-effects&quot;&gt;&lt;a href=&quot;https://blog.ycombinator.com/anu-hariharan-on-network-effects/&quot;&gt;Anu Hariharan on Network Effects&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/anuhariharan&quot;&gt;Anu&lt;/a&gt; gives the best explanation of the differences between networks, marketplaces and platforms.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Network&lt;/strong&gt; = group of connected users and you’re sharing information and you’re trying to drive your product. ( fb, WhatsApp, slack )&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Marketplace&lt;/strong&gt; = two heterogeneous sides. So you have two sites, think of Ebay as a marketplace. You have sellers and buyers. Think of Airbnb, you have hosts and guests. ( eBay, airbnb, instacart )&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Platform&lt;/strong&gt; = you have users and developers and a platform. And so think of it where both groups, users and developers, help build the platform, it can be programmatic, customized. But each group reinforces the value of each other. ( apple, microsoft, fb )&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;andreesen-horowitz-on-network-effects&quot;&gt;&lt;a href=&quot;https://www.slideshare.net/a16z/network-effects-59206938&quot;&gt;Andreesen Horowitz on Network Effects&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Anu Hariharan and a16z put together an awesome &lt;a href=&quot;https://www.slideshare.net/a16z/network-effects-59206938&quot;&gt;slideshare&lt;/a&gt; deck network effects.
+&lt;img src=&quot;https://image.slidesharecdn.com/networkeffects-v6final-160307161248/95/network-effects-3-638.jpg?cb=1461824597&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces&quot;&gt;&lt;a href=&quot;http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/&quot;&gt;All Markets Are Not Created Equal: 10 Factors To Consider When Evaluating Digital Marketplaces&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/bgurley&quot;&gt;Bill Gurley’s&lt;/a&gt; “All Markets Are Not Created Equal” is a legendary post for anyone thinking about building a marketplace.&lt;/p&gt;
+
+&lt;p&gt;10 factors to consider when evaluating new marketplace opportunity:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;New Experience vs. the Status Quo&lt;/li&gt;
+  &lt;li&gt;Economic Advantages vs. the Status Quo&lt;/li&gt;
+  &lt;li&gt;Opportunity for Technology to Add Value&lt;/li&gt;
+  &lt;li&gt;High Fragmentation&lt;/li&gt;
+  &lt;li&gt;Friction of Supplier Sign-Up&lt;/li&gt;
+  &lt;li&gt;Size of the Market Opportunity&lt;/li&gt;
+  &lt;li&gt;Expand the Market&lt;/li&gt;
+  &lt;li&gt;Frequency&lt;/li&gt;
+  &lt;li&gt;Payment Flow&lt;/li&gt;
+  &lt;li&gt;Network Effects&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;the-nfx-of-trulia-building-a-35-billion-marketplace&quot;&gt;&lt;a href=&quot;https://medium.com/@nfx/the-nfx-of-trulia-building-a-3-5-billion-marketplace-53e2e738efc8&quot;&gt;The NFX of Trulia: Building a $3.5 Billion Marketplace&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/peteflint&quot;&gt;Pete Flint&lt;/a&gt; outlines the building of Trulia’s network effects.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our first big challenge, one which every online marketplace must reckon with, was the so-called “chicken-and-egg” problem. How could we attract a consumer audience (homebuyers) without any listings, and how could we attract listings without an audience?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*yM5m2w5RNakRoPwaCeaivg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-dozen-things-ive-learned-about-multi-sided-markets&quot;&gt;&lt;a href=&quot;https://25iq.com/2016/10/22/a-dozen-things-ive-learned-about-multi-sided-markets-platforms/&quot;&gt;A Dozen Things I’ve Learned about Multi-sided Markets&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Trent Giffin’s “A Dozen Things I’ve Learned about Multi-sided Markets” is insightful and very easy to digest.&lt;/p&gt;
+
+&lt;p&gt;I recommend reading &lt;a href=&quot;https://25iq.com/featured-individuals/&quot;&gt;everything&lt;/a&gt; Trent writes.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Multi-sided markets bring together two or more interdependent groups who need each other in some way.&lt;/li&gt;
+  &lt;li&gt;A critical difference between single and multi-sided market is that the sides interact directly.&lt;/li&gt;
+  &lt;li&gt;Multi-sided markets are not linear.&lt;/li&gt;
+  &lt;li&gt;A multi-sided market is not valuable if the sides can find each other easily.&lt;/li&gt;
+  &lt;li&gt;“Demand side economies of scale” result when the value of a product or service changes in a positive way as more people use it.&lt;/li&gt;
+  &lt;li&gt;“Supply side economies of scale” exist when there are reductions in the average cost per unit associated with increasing the scale of production.&lt;/li&gt;
+  &lt;li&gt;Creating a successful multi-sided market requires that the business overcome the “chicken and egg problem.”&lt;/li&gt;
+  &lt;li&gt;The chicken and egg problem is best overcome if one side is clearly made the loss leader.&lt;/li&gt;
+  &lt;li&gt;The sides of the market should complement each other – if the sides are complements, it not only reduces the customer acquisition cost (CAC) but assembles sides that want to to enter into exchanges.&lt;/li&gt;
+  &lt;li&gt;Subsidizing the side of the multi-sided market with lower marginal cost/COGS is optimal.&lt;/li&gt;
+  &lt;li&gt;Businesses that are slow to get to critical mass can run out of cash and momentum.&lt;/li&gt;
+  &lt;li&gt;Clear profit pools should exist.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;the-network-effects-manual&quot;&gt;&lt;a href=&quot;https://www.nfx.com/post/network-effects-manual&quot;&gt;The Network Effects Manual&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&quot;https://twitter.com/NFXGuild&quot;&gt;NFX team&lt;/a&gt; take Network Effects to a whole new level with “The Network Effects Manual”&lt;/p&gt;
+
+&lt;p&gt;They list out each type of network effect with a diagram, explanation of properties and example companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/fAlINdq.jpg?1&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-network-effects-bible&quot;&gt;&lt;a href=&quot;https://www.nfx.com/post/network-effects-bible&quot;&gt;The Network Effects Bible&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&quot;https://twitter.com/NFXGuild&quot;&gt;NFX team&lt;/a&gt; goes even further with Network Effects by creating “The Network Effects Bible”. The &lt;a href=&quot;https://www.nfx.com/post/network-effects-bible&quot;&gt;post&lt;/a&gt; and &lt;a href=&quot;https://www.slideshare.net/NFXvc/the-network-effects-bible-95560213&quot;&gt;slideshare&lt;/a&gt; are incredibly insightful and a must read for every founder.&lt;/p&gt;
+
+&lt;p&gt;Outline&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Why Network Effects Are Important&lt;/li&gt;
+  &lt;li&gt;How Networks Work&lt;/li&gt;
+  &lt;li&gt;Properties of Networks&lt;/li&gt;
+  &lt;li&gt;Building and Maintaining Network Effects&lt;/li&gt;
+  &lt;li&gt;Related Concepts&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://image.slidesharecdn.com/thenfxbible-finalslideshare1-180501010522/95/the-network-effects-bible-6-1024.jpg?cb=1525385388&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-kardashian-network-effect&quot;&gt;&lt;a href=&quot;https://twitter.com/andrewchen/status/1018933551553810432&quot;&gt;The Kardashian Network Effect&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Last but not least, &lt;a href=&quot;https://twitter.com/andrewchen&quot;&gt;Andrew Chen&lt;/a&gt; gives the world a new mental model 😉&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Kardashian Network Effect&lt;/strong&gt; - Cross promotion platform built by multiple mutually reinforcing social accounts that cross-promote each other&lt;/p&gt;
+
+&lt;p&gt;Network Effects aren’t just for tech companies.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/Bb6u0ke.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/jaymehoffman/status/1037468438309085185&quot;&gt;Originally tweet stormed at @jaymehoffman&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Network Effects are the most powerful force in business.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="“https://image.slidesharecdn.com/networkeffects-v6final-160307161248/95/network-effects-3-638.jpg”" /></entry><entry><title type="html">Quotes I Live By</title><link href="http://localhost:4000/quotes-i-live-by/" rel="alternate" type="text/html" title="Quotes I Live By" /><published>2018-08-08T00:00:00+00:00</published><updated>2018-08-08T00:00:00+00:00</updated><id>http://localhost:4000/quotes-i-live-by</id><content type="html" xml:base="http://localhost:4000/quotes-i-live-by/">&lt;p&gt;&lt;strong&gt;What’s next?&lt;/strong&gt;: “&lt;em&gt;Figure out what information, people or resource you need in life to get to the next level&lt;/em&gt;.” - Me
+&lt;strong&gt;Goal setting&lt;/strong&gt;: “&lt;em&gt;Give me a stock clerk with a goal and I’ll give you a man who will make history. Give me a man with no goals and I’ll give you a stock clerk&lt;/em&gt;.” — J.C. Penney&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Asking questions&lt;/strong&gt;: “&lt;em&gt;Questions are places in your mind where answers fit. If you haven’t asked the question, the answer has nowhere to go&lt;/em&gt;.” — Clayton Christensen&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Being proactive&lt;/strong&gt;: “&lt;em&gt;Dig the well before you are thirsty&lt;/em&gt;.” — Ancient proverb&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Focus&lt;/strong&gt;: “&lt;em&gt;The man who chases two rabbits catches neither&lt;/em&gt;.” — Confucius&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Failing&lt;/strong&gt;: “&lt;em&gt;Try and fail but don’t fail to try&lt;/em&gt;” — Stephen Kaggow&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Empathy&lt;/strong&gt;: “&lt;em&gt;Treat others how they want to be treated&lt;/em&gt;.” — Dad&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Being present&lt;/strong&gt;: “&lt;em&gt;Yesterday is history, tomorrow is a mystery, and today is a gift… that’s why they call it present&lt;/em&gt;” — Master Oogway&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Staying humble&lt;/strong&gt;: “&lt;em&gt;The humble man makes room for progress, The proud man believes he is already there&lt;/em&gt;.” — Ed Parker&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Courage&lt;/strong&gt;: “&lt;em&gt;All our dreams can come true, if we have the courage to pursue them&lt;/em&gt;.” – Walt Disney&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Patience&lt;/strong&gt;: “&lt;em&gt;It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience&lt;/em&gt;.” — Julius Caesar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listening&lt;/strong&gt;: “&lt;em&gt;Wisdom is the reward you get for a lifetime of listening when you’d preferred to talk&lt;/em&gt;.” — Doug Larson&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Storytelling&lt;/strong&gt;: “&lt;em&gt;Great stories happen to those who can tell them&lt;/em&gt;.” — Ira Glas&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Compounding Interest&lt;/strong&gt;: “&lt;em&gt;Compounding interest is the fifth wonder of the world&lt;/em&gt;” — Albert Einstein + “&lt;em&gt;Investment in knowledge pays the best interest&lt;/em&gt;” — Ben Franklin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inversion&lt;/strong&gt;: “&lt;em&gt;It is not enough to think about difficult problems one way. You need to think about them forwards and backward&lt;/em&gt;.” — Charlie Munger&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reflection&lt;/strong&gt;: “&lt;em&gt;Pain plus reflection equals progress&lt;/em&gt;” — Ray Dalio&lt;/p&gt;</content><author><name></name></author><summary type="html">What’s next?: “Figure out what information, people or resource you need in life to get to the next level.” - Me Goal setting: “Give me a stock clerk with a goal and I’ll give you a man who will make history. Give me a man with no goals and I’ll give you a stock clerk.” — J.C. Penney</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%E2%80%9C/assets/uploads/quotes.png%E2%80%9D" /></entry><entry><title type="html">Good Markets</title><link href="http://localhost:4000/good-markets/" rel="alternate" type="text/html" title="Good Markets" /><published>2018-08-08T00:00:00+00:00</published><updated>2018-08-08T00:00:00+00:00</updated><id>http://localhost:4000/good-markets</id><content type="html" xml:base="http://localhost:4000/good-markets/">&lt;p&gt;According to Marc Andreesen, “product/market fit means being in a Good Market with a product that can satisfy that market.”&lt;/p&gt;
 
 &lt;p&gt;We know the importance of PMF but what defines a Good Market?&lt;/p&gt;
 
