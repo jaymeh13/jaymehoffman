@@ -30,6 +30,6 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/%E2%80%9C/next/%E2%80%9C</loc>
+<loc>http://localhost:4000/next/</loc>
 </url>
 </urlset>

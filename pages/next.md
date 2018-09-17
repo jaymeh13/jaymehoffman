@@ -1,9 +1,10 @@
 ---
-permalink: “/next/“
+permalink: /next/
 layout: page
 ---
 
 #### September
+* Network effects are responsible for 70% of the value created by tech companies since the Internet became a thing in 1994 🤯 - Here are my [favorite posts on Network Effects](https://jaymehoffman.com/network-effects/).
 * An Idea is a starting point - not a blueprint, but a question. If an idea is a blueprint, it has to be right. If an idea is a question, it can be wrong, so long as it's wrong in a way that leads to more ideas. [PG](http://paulgraham.com/ideas.html)
 * [Four characteristics of a dreamy business](https://twitter.com/jaymehoffman/status/1040989026612928512): 1. Customer love 2. [Scale very large](https://stratechery.com/aggregation-theory/) 3. Strong returns on capital 4. Durable – won’t change
 * We’re taking the next 3 months off from actively trying to start a business. It feels like we’re putting the cart before the horse. We want to start a business but… we don’t have an idea. Most of our ideas are pretty lame and it feels like we’re forcing it. We should start a business to pursue an idea and not the other way around. 

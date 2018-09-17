@@ -575,8 +575,7 @@ blockquote > :last-child {
   border-bottom: none;
   padding-left: 25px;
   padding-right: 25px;
-  padding-top: 25px;
-  padding-bottom: 25px; }
+  padding-top: 25px; }
 
 .site-nav .page-link {
   color: rgba(0, 0, 0, 0.6);

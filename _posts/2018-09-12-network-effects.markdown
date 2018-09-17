@@ -29,7 +29,7 @@ Anu Hariharan and a16z put together an awesome [slideshare](https://www.slidesha
 
 
 
-### [All Markets Are Not Created Equal: 10 Factors To Consider When Evaluating Digital Marketplaces](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/)
+### [10 Factors To Consider When Evaluating Digital Marketplaces](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/)
 [Bill Gurley’s](https://twitter.com/bgurley) “All Markets Are Not Created Equal" is a legendary post for anyone thinking about building a marketplace.
 
 10 factors to consider when evaluating new marketplace opportunity:
