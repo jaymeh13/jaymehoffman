@@ -5,7 +5,7 @@ layout: page
 image: "/assets/og-image.png"
 ---
 
-Jayme Hoffman is an entrepreneur, husband and soon-to-be father.     He spends most of his time building a family with his wife, Kate, and building customer obsessed businesses and products with smart people that think long-term.
+Jayme Hoffman is an entrepreneur, husband, and soon-to-be father. His two goals are building a happy family with his wife, Kate, and building customer-obsessed businesses with smart people that think long-term.
 
 #### Now
 * Helping Keller Williams Realty, the world's largest real estate company, build consumer tech products.
@@ -18,4 +18,3 @@ Jayme Hoffman is an entrepreneur, husband and soon-to-be father.     He spends m
 * 2012 Co-founder & CEO, [Acacia Interactive](https://angel.co/acacia)
 * 2009 Founder & CEO, Tigerpistol.com
 * 2007 Multimedia Development Team, [The Ohio State University](https://www.osu.edu/)
-
