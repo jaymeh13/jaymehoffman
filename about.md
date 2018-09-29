@@ -5,7 +5,7 @@ layout: page
 image: "/assets/og-image.png"
 ---
 
-Jayme Hoffman is an entrepreneur, husband, and soon-to-be father. His two goals are building a happy family with his wife, Kate, and building customer-obsessed businesses with smart people that think long-term.
+Jayme Hoffman is an entrepreneur, husband, and soon-to-be father. His main two goals are building a happy family with his wife, Kate, and building customer-obsessed businesses with passionate people that think long-term.
 
 #### Now
 * Helping Keller Williams Realty, the world's largest real estate company, build consumer tech products.
