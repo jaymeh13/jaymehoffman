@@ -2,6 +2,7 @@
 permalink: "/next/"
 layout: page
 ---
+
 ### October 2018
 * tbd
 
