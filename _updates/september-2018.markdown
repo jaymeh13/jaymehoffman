@@ -1,6 +1,6 @@
 ---
 title: September 2018
-date: 2018-10-06 19:39:00 Z
+date: 2018-09-30 19:39:00 Z
 permalink: updates/september-2018
 ---
 
