@@ -8,6 +8,7 @@ collections:
   updates:
     title: Updates
     output: true
+    permalink: updates
   uploads:
     title: Uploads
     output: true
