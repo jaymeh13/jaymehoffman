@@ -1,8 +1,8 @@
 ---
 title: Contact
 permalink: "/contact/"
-layout: page
 image: "/assets/og-image.png"
+layout: page
 ---
 
 #### Social
@@ -12,9 +12,4 @@ image: "/assets/og-image.png"
 
 #### Email
 
-Jaymeh13(at)gmail.com
-
-#### Meet in Person
-I live in Austin, Texas and enjoy meeting up for coffee or lunch.
-* Coffee Shark
-* Whole Foods HQ
+Jayme(at)jaymehoffman.com
