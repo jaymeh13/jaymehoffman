@@ -2,11 +2,11 @@
 title: Jayme Hoffman
 timezone: UTC
 collections:
-  next:
-    title: Next
-    output: true
   posts:
     title: Posts
+    output: true
+  updates:
+    title: Updates
     output: true
   uploads:
     title: Uploads
