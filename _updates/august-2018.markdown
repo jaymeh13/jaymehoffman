@@ -1,6 +1,6 @@
 ---
 title: August 2018
-date: 2018-10-06 19:40:00 Z
+date: 2018-08-31 19:40:00 Z
 permalink: updates/august-2018
 layout: post
 ---
