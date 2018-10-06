@@ -5,4 +5,3 @@ permalink: updates/october-2018
 layout: post
 ---
 
-This is a test
