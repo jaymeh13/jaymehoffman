@@ -2,7 +2,7 @@
 title: October 2018
 date: 2018-10-06 19:31:00 Z
 permalink: updates/october-2018
-layout: post
+layout: page
 ---
 
 * [Bundling and unbundling](https://twitter.com/jaymehoffman/status/1053000693907369984) is all about restructuring value without creating anything new. 
