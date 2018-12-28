@@ -6,7 +6,7 @@ permalink: best-of-2018
 
 # Lessons
 
-#### Failure is Inevitable
+### Failure is Inevitable
 
 Failure is inevitable. It’s better to fail at what you love than something you compromise to.
 
