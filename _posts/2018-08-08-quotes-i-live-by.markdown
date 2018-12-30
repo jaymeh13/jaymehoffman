@@ -2,9 +2,10 @@
 title: Quotes I Live By
 date: 2018-08-08 00:00:00 Z
 permalink: "/quotes-i-live-by/"
-layout: post
+published: false
 image: "“/assets/uploads/quotes.png”"
 description: Quotes and maxims Jayme Hoffman lives by.
+layout: post
 ---
 
 **What's next?**: "*Figure out what information, people or resource you need in life to get to the next level*." - Me
