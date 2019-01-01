@@ -1,6 +1,7 @@
 ---
 title: Useful Links
 date: 2017-06-30 17:50:00 Z
+permalink: links
 ---
 
 Here's a list of helpful articles, essays and videos.
