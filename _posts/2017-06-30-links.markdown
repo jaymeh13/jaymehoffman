@@ -1,0 +1,134 @@
+---
+title: Useful Links
+date: 2017-06-30 17:50:00 Z
+---
+
+Here's a list of helpful articles, essays and videos.
+
+### Customer Obsession
+
+> Do whatever is best for your users. You can hold onto that like a rope in a hurricane and it will save you if anything can. You just pull on that rope and it will guide you through everything you have to do. - Paul Graham\*
+
+* [Paul Graham Speaks to Startup School ( video )](https://www.youtube.com/watch?v=q7K0vRUKXKc)
+
+* [Jeff Bezos announces Zappos acquisition ( video )](https://www.youtube.com/watch?v=-hxX_Q5CnaA)
+
+* [Amazon 1998 shareholder letter](https://www.sec.gov/Archives/edgar/data/1018724/000119312516530910/d168744dex991.htm)
+
+* [SoftBank Commercial](https://www.youtube.com/watch?time_continue=2&v=pgKcwEkip9I)
+
+### Getting Ideas
+
+> Given one hour to save the world, I would spend 55 minutes defining the problem and 5 minutes finding the solution. - Albert Einstein\*
+
+* [The Best Idea Wins](http://awealthofcommonsense.com/2017/12/best-idea-wins/)
+
+* [Fear of bad ideas](http://sethgodin.typepad.com/seths_blog/2009/12/fear-of-bad-ideas.html)
+
+* [Ideas are just a multiplier of execution](https://sivers.org/multiply)
+
+* [The next big thing will start out looking like a toy](http://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy/)
+
+* [How to Start a Startup](http://paulgraham.com/start.html)
+
+### Testing & Building Products
+
+> And you can always feel product/market fit when it's happening. The customers are buying the product just as fast as you can make it -- or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You're hiring sales and customer support staff as fast as you can. Reporters are calling because they've heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck's. - Pmarca
+
+* [The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)
+
+* [12 Things about PMF](http://a16z.com/2017/02/18/12-things-about-product-market-fit/)
+
+* [A Minimum Viable Product Is Not a Product, It’s a Process](http://blog.ycombinator.com/minimum-viable-product-process/)
+
+* [The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
+
+* [How to Find Product Market Fit - CS183F ( video )](https://www.youtube.com/watch?v=_6pl5GG8RQ4&feature=youtu.be&t=37m32s)
+
+* [If your product is Great, it doesn't need to be Good.](http://paulbuchheit.blogspot.com/2010/02/if-your-product-is-great-it-doesnt-need.html?m=1)
+
+* [90% of Feedback is Crap: How to Find the Next Big Startup Idea](http://firstround.com/review/90-of-feedback-is-crap-how-to-find-the-next-big-startup-idea/)
+
+* [Blog first startups](https://medium.com/on-startups/blog-first-startups-968ebef44a56)
+
+### Platforms, Marketplaces & Networks
+
+* [Anu Hariharan on Network Effects](https://www.youtube.com/watch?v=vLsnYCPdNtc)
+
+* [10 Factors To Consider When Evaluating Digital Marketplaces](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/)
+
+* [A guide to marketplaces](http://versionone.vc/wp-content/uploads/2015/11/Marketplace-Handbook-11-08-2015.pdf#page=48)
+
+* [Pipelines, Platforms, and the New Rules of Strategy](https://hbr.org/2016/04/pipelines-platforms-and-the-new-rules-of-strategy)
+
+### Growing Products
+
+> Dominate a small yet extensible market first: Facebook - Harvard, Amazon - books, Netflix - DVD mailers, Uber - town cars in SF - [David Sacks](https://twitter.com/davidsacks/status/689848729839411201)
+
+* [1,000 True Fans](http://kk.org/thetechnium/1000-true-fans/)
+
+* [A Dozen Lessons on Growth](https://25iq.com/2017/02/10/a-dozen-lessons-on-growth/)
+
+* [Startup = Growth](http://www.paulgraham.com/growth.html)
+
+* [Alex Schultz - Growth ( video )](https://www.youtube.com/watch?v=n_yHZ_vKjno)
+
+### Brand
+
+> *Brands always mean something. If you don’t define what the brands means, your competitors will - Richard Branson*
+
+* [$100,000 of Brand Strategy Advice](https://www.youtube.com/watch?v=hvaOu5kCFgU)
+
+* [Against Storytelling](https://trackchanges.postlight.com/against-storytelling-7e53b6d7a0d8)
+
+* [Google Ventures Brand Sprint](https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a)
+
+* [What you make people feel](https://www.slideshare.net/kirkphillips/the-9-crit/10-What_you_make_people_feel)
+
+### Team / Culture
+
+> *People don’t buy what you do. They buy why you do it. - Simon Sinek*
+
+* [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
+
+* [Peter Thiel’s Philosophy of Extreme Manager Focus](http://blog.idonethis.com/manager-focus-peter-thiel-paypal/)
+
+* [Your Job As a Founder Is to Create Believers](http://josephwalla.com/your-job-as-a-founder-is-to-create-believers)
+
+* [Facebook was not originally created to be a company](https://airows.com/creative/a-look-inside-the-beautiful-handbook-facebook-gives-all-new-employees)
+
+* [A collection of culture decks](http://culturecodes.co/)
+
+### Fundraising
+
+> The reality is that visionaries like Steve Jobs haven’t been successful because they thought of something amazing and original out of thin air. Rather, they were gifted at constantly persuading many people to follow them on their journey to something amazing and original. - Tyler Odean
+
+* [Master the Art of Influence — Persuasion as a Skill and Habit](http://firstround.com/review/master-the-art-of-influence-persuasion-as-a-skill-and-habit/)
+
+* [How We Raised a $7 Million Series A from our Top Choice VC](https://hackernoon.com/how-we-raised-a-7-million-series-a-from-foundry-group-our-top-choice-vc-8b630d2a4cef)
+
+* [Ruling out rather than ruling in](http://reactionwheel.net/2017/10/ruling-out-rather-than-ruling-in.html)
+
+* [What are some rookie mistakes founders make during VC meetings?](https://www.saastr.com/what-are-some-rookie-mistakes-founders-make-during-vc-meetings/)
+
+* [Venturehacks - Pitching Hacks](http://venturehacks.wpengine.com/wp-content/uploads/2009/12/Pitching-Hacks.pdf)
+
+* [Guide to demo day presentations - YC](http://blog.ycombinator.com/guide-to-demo-day-pitches/)
+
+* [55 things learned as a 19 year old VC](https://medium.com/startup-grind/55-things-learned-as-a-19-year-old-vc-6c54af2f0f89#.2w9617owj)
+
+* [Building VC Relationships](http://blog.eladgil.com/2017/02/building-vc-relationships.html)
+
+* [Advice on pitching](http://www.aaronkharris.com/advice-on-pitching)
+
+* [The Secret Ingredient To The Best Startup Fundraising Pitches](http://tomtunguz.com/inevitability/?utm_content=buffer1e3a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+* [The YC Seed Deck Template](https://blog.ycombinator.com/intro-to-the-yc-seed-deck/)
+
+### Fear of Failure
+
+> *The essential part of creativity is not being afraid to fail. - Edwin Land*
+
+* [But They Did Not Give Up](http://www.uky.edu/\~eushe2/Pajares/OnFailingG.html)
+
+* [Shia LaBeouf "Just Do It"](https://www.youtube.com/watch?v=ZXsQAXx_ao0)
