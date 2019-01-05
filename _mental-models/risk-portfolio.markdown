@@ -1,7 +1,7 @@
 ---
 title: Risk Portfolio
 date: 2019-01-03 23:08:00 Z
-permalink: "/mental-model/risk-portfolio"
+permalink: "/mental-models/risk-portfolio"
 tags:
 - Finance
 - Risk
