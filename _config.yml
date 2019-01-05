@@ -5,6 +5,7 @@ collections:
   mental-model:
     title: Mental Models
     output: true
+    permalink: mental-model
   posts:
     title: Posts
     output: true
