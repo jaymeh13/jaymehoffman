@@ -2,10 +2,6 @@
 title: Jayme Hoffman
 timezone: UTC
 collections:
-  mental-models:
-    title: Mental Models
-    output: true
-    permalink: mental-models
   posts:
     title: Posts
     output: true
