@@ -4,6 +4,7 @@ date: 2019-01-09 17:21:00 Z
 permalink: mental-models/rmf
 tags:
 - Decision
+layout: page
 ---
 
 Regret minimization framework helps you make tough decisions by projecting to your future self and looking backward on your current decision. RMF will help you leave your job and build the thing you’ve been thinking about for the last 2.5 years.
