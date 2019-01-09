@@ -12,7 +12,6 @@ Regret minimization framework helps you make tough decisions by projecting to yo
 > I knew that when I was 80 I was not going to regret having tried this. I was not going to regret trying to participate in this thing called the Internet that I thought was going to be a really big deal. I knew that if I failed I wouldn’t regret that, but I knew the one thing I might regret is not ever having tried.
 > — Jeff Bezos
 
-![rmf](https://cdn-images-1.medium.com/max/1600/1\*tc2y_Wzef69u9xqLX697sQ.jpeg)
 
 #### Links
 
