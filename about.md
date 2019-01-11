@@ -13,7 +13,7 @@ Jayme Hoffman is an entrepreneur, husband, and new dad.
 
 
 #### Past
-* 2016 Co-founder & CEO, [Homeward](https://homeward.io/) (Acquired by Keller Williams Realty)
+* 2016 Co-founder & CEO, [Homeward](https://homeward.io/) (Acquired by Keller Williams)
 * 2015 CEO, Second Chance Technologies (BuyHappy)
 * 2012 Co-founder & CEO, [Acacia Interactive](https://angel.co/acacia)
 * 2009 Founder & CEO, Tigerpistol.com
