@@ -557,12 +557,14 @@ a:hover {
  * Blockquotes
  */
 blockquote {
-  color: rgba(0, 0, 0, 0.6);
-  border-left: 2px solid rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.84);
+  border-left: 3px solid rgba(0, 0, 0, 0.84);
   padding-left: 20px;
-  font-size: 20px;
-  letter-spacing: -.4px;
-  font-style: italic; }
+  font-size: 21px;
+  letter-spacing: -.3px;
+  font-style: italic;
+  font-family: serif;
+  margin-top: 20px; }
 
 blockquote > :last-child {
   margin-bottom: 0; }
@@ -585,7 +587,8 @@ blockquote > :last-child {
 .site-logo img {
   width: 50px;
   vertical-align: middle;
-  height: auto; }
+  height: auto;
+  margin-top: unset; }
 
 .site-nav {
   float: right;
@@ -609,8 +612,9 @@ blockquote > :last-child {
     top: 30px;
     right: 20px;
     background-color: #fff;
-    border: 1px solid #e8e8e8;
+    border: 0px;
     border-radius: 5px;
+    padding-bottom: 20px;
     text-align: right; }
 
   .site-nav label[for="nav-trigger"] {
@@ -681,7 +685,16 @@ blockquote > :last-child {
 
 .post-list h3 {
   margin-bottom: 0px;
-  font-weight: 400; }
+  font-weight: 400;
+  line-height: normal; }
+
+a.post-link-all {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+  text-transform: uppercase; }
+
+a.post-link-all:hover {
+  text-decoration: underline; }
 
 .post-meta {
   font-size: 14px;
@@ -704,20 +717,26 @@ blockquote > :last-child {
 .post-content {
   margin-bottom: 30px; }
 
+.post-content h1 {
+  font-size: 46px; }
+
+@media screen and (max-width: 800px) {
+  .post-content h1 {
+    font-size: 46px; } }
 .post-content h2 {
-  font-size: 36px; }
+  font-size: 34px; }
 
 @media screen and (max-width: 800px) {
   .post-content h2 {
-    font-size: 32px; } }
+    font-size: 34px; } }
 .post-content h3 {
-  font-size: 30px; }
+  font-size: 26px; }
 
 @media screen and (max-width: 800px) {
   .post-content h3 {
     font-size: 26px; } }
 .post-content h4 {
-  font-size: 24px; }
+  font-size: 22px; }
 
 @media screen and (max-width: 800px) {
   .post-content h4 {

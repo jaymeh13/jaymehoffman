@@ -1,6 +1,6 @@
 ---
 title: Risk Portfolio
-date: 2019-01-05 21:54:00 Z
+date: 2019-01-04 21:54:00 Z
 permalink: mental-models/risk-portfolio
 layout: post
 ---

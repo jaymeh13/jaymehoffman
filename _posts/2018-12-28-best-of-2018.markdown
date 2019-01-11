@@ -2,6 +2,7 @@
 title: Best of 2018
 date: 2018-12-28 15:11:00 Z
 permalink: best-of-2018
+layout: post
 ---
 
 ## Lessons
