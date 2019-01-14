@@ -2,18 +2,18 @@
 title: Two Paths to Product Market Fit
 date: 2018-08-07 00:00:00 Z
 permalink: "/two-paths-to-product-market-fit/"
-layout: post
 description: There are two paths to product market fit (PMF). 1. Find a product for
   a market. or 2. Find a market for a product.
+layout: post
 ---
 
-#### What is product market fit?
+## What is product market fit?
 
 > “Product/market fit means being in a good market with a product that can satisfy that market.” -pmarca
 
 > “If you address a market that really wants your product — if the dogs are eating the dog food — then you can screw up almost everything in the company and you will succeed. Conversely, if you’re really good at execution but the dogs don’t want to eat the dog food, you have no chance of winning.” Andy Rachleff
 
-#### There are two paths to product market fit.
+## There are two paths to product market fit.
 
 1. Start with a market. Find a product for the market.
 
@@ -26,7 +26,7 @@ description: There are two paths to product market fit (PMF). 1. Find a product 
 
 > “Founders have to choose a market long before they have any idea whether they will reach product/market fit.” Chris Dixon [(cdixon)](http://cdixon.org/2011/06/20/foundermarket-fit/)
 
-### Product First
+#### Product First
 > Product 1st, Market 2nd: Most successful new markets begin with a market-sensitive technologist recognizing an inflection point that enables a new kind of product. The next question becomes: “who wants to buy my product?” Start with the product and search for the market as opposed to vice versa. Evaluating a market trying to find holes and developing solutions for those problems will lead to mundane outcomes. [(Medium)](https://medium.com/parsa-vc/7-lessons-from-andy-rachleff-on-product-market-fit-9fc5eceb4432)
 
 > Even though serendipity plays a role here, there is a process — which is why Rachleff later created and teaches a course at Stanford, Aligning Startups with their Markets. Steve Blank also developed a customer development process based on the idea that startups should apply the scientific method just like scientists do: start with a hypothesis, test it, prove it, move on or further iterate on the hypothesis. Similarly, Rachleff observes that “First you need to define and test your value hypothesis. And then only once proven do you move on to your growth hypothesis. The value hypothesis defines the what, the who, and the how. What are you going to build, who is desperate for it, and what is the business model you are going to use to deliver it?” Startups should therefore start with the product and try to find the market, as opposed to starting with the market to find the product. It’s important to emphasize here that the iteration is more about the market and the business model than the product itself. [a16z](https://a16z.com/2017/02/18/12-things-about-product-market-fit/)
