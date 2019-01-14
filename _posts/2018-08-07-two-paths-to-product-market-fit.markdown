@@ -7,13 +7,13 @@ description: There are two paths to product market fit (PMF). 1. Find a product 
 layout: post
 ---
 
-## What is product market fit?
+### What is product market fit?
 
 > “Product/market fit means being in a good market with a product that can satisfy that market.” -pmarca
 
 > “If you address a market that really wants your product — if the dogs are eating the dog food — then you can screw up almost everything in the company and you will succeed. Conversely, if you’re really good at execution but the dogs don’t want to eat the dog food, you have no chance of winning.” Andy Rachleff
 
-## There are two paths to product market fit.
+### There are two paths to product market fit.
 
 1. Start with a market. Find a product for the market.
 
