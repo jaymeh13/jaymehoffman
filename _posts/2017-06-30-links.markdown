@@ -5,7 +5,7 @@ permalink: links
 layout: post
 ---
 
-Here's a list of helpful articles, essays and videos.
+Here's a list of my favorite startup articles, essays and videos.
 
 ### Customer Obsession
 
@@ -80,9 +80,13 @@ Here's a list of helpful articles, essays and videos.
 > *Brands always mean something. If you don’t define what the brands means, your competitors will - Richard Branson*
 
 * [$100,000 of Brand Strategy Advice](https://www.youtube.com/watch?v=hvaOu5kCFgU)
+
 * [Against Storytelling](https://trackchanges.postlight.com/against-storytelling-7e53b6d7a0d8)
+
 * [Google Ventures Brand Sprint](https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a)
+
 * [What you make people feel](https://www.slideshare.net/kirkphillips/the-9-crit/10-What_you_make_people_feel)
+
 * [Michael Duda – Investing In Brands](http://investorfieldguide.com/duda/)
 
 ### Team / Culture
