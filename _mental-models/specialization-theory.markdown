@@ -5,9 +5,9 @@ permalink: mental-models/specialization-theory
 layout: page
 ---
 
-Specialization Theory breaks down large jobs into smaller jobs that are assigned to workers. The division of labour  creates a specialized knowledge of a task, saves labor time and increase productivity.
+Specialization Theory breaks down large jobs into smaller jobs that are assigned to workers. The division of labour creates a specialized knowledge of a task, saves labor time and increase productivity.
 
-Specialization Theory is better knowns as [Division of Labour](https://en.wikipedia.org/wiki/Division_of_labour). The theory was first recognized in Adam Smith's book “Wealth of Nations,” published in 1776.
+Specialization Theory is better knowns as [Division of Labour](https://en.wikipedia.org/wiki/Division_of_labour). The theory was first recognized in Adam Smith's book “[Wealth of Nations](https://amzn.to/2AZLZM5),” published in 1776.
 
 #### How Does Specialization Theory Work?
 
