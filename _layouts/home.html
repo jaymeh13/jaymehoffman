@@ -34,7 +34,9 @@ layout: default
   {%- if site.mental-models.size > 0 -%}
     <h1 class="post-list-heading">{{ page.list_title | default: "Mental Models" }}</h1>
     <ul class="post-list">
-      {%- for post in site.mental-models limit:3 -%}
+      {%- assign model-list = site.mental-models | reverse -%}
+      {%- for post in model-list limit:3 -%}
+
       <li>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">

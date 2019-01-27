@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-11T15:59:13+00:00</updated><id>http://localhost:4000/</id><title type="html">Jayme Hoffman</title><subtitle>Jayme Hoffman's blog</subtitle><entry><title type="html">Best of 2018</title><link href="http://localhost:4000/best-of-2018" rel="alternate" type="text/html" title="Best of 2018" /><published>2018-12-28T15:11:00+00:00</published><updated>2018-12-28T15:11:00+00:00</updated><id>http://localhost:4000/best-of-2018</id><content type="html" xml:base="http://localhost:4000/best-of-2018">&lt;h2 id=&quot;lessons&quot;&gt;Lessons&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-27T06:39:48+00:00</updated><id>http://localhost:4000/</id><title type="html">Jayme Hoffman</title><subtitle>Jayme Hoffman's blog</subtitle><entry><title type="html">Best of 2018</title><link href="http://localhost:4000/best-of-2018" rel="alternate" type="text/html" title="Best of 2018" /><published>2018-12-28T15:11:00+00:00</published><updated>2018-12-28T15:11:00+00:00</updated><id>http://localhost:4000/best-of-2018</id><content type="html" xml:base="http://localhost:4000/best-of-2018">&lt;h2 id=&quot;lessons&quot;&gt;Lessons&lt;/h2&gt;
 
 &lt;h4 id=&quot;whats-next&quot;&gt;What’s Next&lt;/h4&gt;
 
@@ -277,7 +277,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://hbr.org/1992/01/japanese-style-entrepreneurship-an-interview-with-softbanks-ceo-masayoshi-son&quot;&gt;Masayoshi Son, SoftBank&lt;/a&gt;: One success measure was that I should fall in love with a particular business for the next 50 years at least. Very often, people get excited for the first few years, and then, after they see the reality, they get tired of the business. I wanted to choose one that I would feel more and more excited about as the years passed.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://cdixon.org/2011/06/20/foundermarket-fit/&quot;&gt;Chris Dixon, a16z Crypto&lt;/a&gt;:  You should fit your market not only because you understand it, but because you love it — and will continue to love it as your product and market change over time.&lt;/p&gt;</content><author><name></name></author><summary type="html">According to Marc Andreesen, “product/market fit means being in a Good Market with a product that can satisfy that market.”</summary></entry><entry><title type="html">Two Paths to Product Market Fit</title><link href="http://localhost:4000/two-paths-to-product-market-fit/" rel="alternate" type="text/html" title="Two Paths to Product Market Fit" /><published>2018-08-07T00:00:00+00:00</published><updated>2018-08-07T00:00:00+00:00</updated><id>http://localhost:4000/two-paths-to-product-market-fit</id><content type="html" xml:base="http://localhost:4000/two-paths-to-product-market-fit/">&lt;h4 id=&quot;what-is-product-market-fit&quot;&gt;What is product market fit?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://cdixon.org/2011/06/20/foundermarket-fit/&quot;&gt;Chris Dixon, a16z Crypto&lt;/a&gt;:  You should fit your market not only because you understand it, but because you love it — and will continue to love it as your product and market change over time.&lt;/p&gt;</content><author><name></name></author><summary type="html">According to Marc Andreesen, “product/market fit means being in a Good Market with a product that can satisfy that market.”</summary></entry><entry><title type="html">Two Paths to Product Market Fit</title><link href="http://localhost:4000/two-paths-to-product-market-fit/" rel="alternate" type="text/html" title="Two Paths to Product Market Fit" /><published>2018-08-07T00:00:00+00:00</published><updated>2018-08-07T00:00:00+00:00</updated><id>http://localhost:4000/two-paths-to-product-market-fit</id><content type="html" xml:base="http://localhost:4000/two-paths-to-product-market-fit/">&lt;h3 id=&quot;what-is-product-market-fit&quot;&gt;What is product market fit?&lt;/h3&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;“Product/market fit means being in a good market with a product that can satisfy that market.” -pmarca&lt;/p&gt;
@@ -287,7 +287,7 @@
   &lt;p&gt;“If you address a market that really wants your product — if the dogs are eating the dog food — then you can screw up almost everything in the company and you will succeed. Conversely, if you’re really good at execution but the dogs don’t want to eat the dog food, you have no chance of winning.” Andy Rachleff&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;there-are-two-paths-to-product-market-fit&quot;&gt;There are two paths to product market fit.&lt;/h4&gt;
+&lt;h3 id=&quot;there-are-two-paths-to-product-market-fit&quot;&gt;There are two paths to product market fit.&lt;/h3&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -311,7 +311,7 @@
   &lt;p&gt;“Founders have to choose a market long before they have any idea whether they will reach product/market fit.” Chris Dixon &lt;a href=&quot;http://cdixon.org/2011/06/20/foundermarket-fit/&quot;&gt;(cdixon)&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;product-first&quot;&gt;Product First&lt;/h3&gt;
+&lt;h4 id=&quot;product-first&quot;&gt;Product First&lt;/h4&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Product 1st, Market 2nd: Most successful new markets begin with a market-sensitive technologist recognizing an inflection point that enables a new kind of product. The next question becomes: “who wants to buy my product?” Start with the product and search for the market as opposed to vice versa. Evaluating a market trying to find holes and developing solutions for those problems will lead to mundane outcomes. &lt;a href=&quot;https://medium.com/parsa-vc/7-lessons-from-andy-rachleff-on-product-market-fit-9fc5eceb4432&quot;&gt;(Medium)&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -628,7 +628,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">I recently discovered that Netflix was NOT founded because Blockbuster charged Reed Hastings with a $40 late fee for “Apollo 13”</summary></entry><entry><title type="html">Helpful Links</title><link href="http://localhost:4000/links" rel="alternate" type="text/html" title="Helpful Links" /><published>2017-06-30T17:50:00+00:00</published><updated>2017-06-30T17:50:00+00:00</updated><id>http://localhost:4000/links</id><content type="html" xml:base="http://localhost:4000/links">&lt;p&gt;Here’s a list of helpful articles, essays and videos.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">I recently discovered that Netflix was NOT founded because Blockbuster charged Reed Hastings with a $40 late fee for “Apollo 13”</summary></entry><entry><title type="html">Startup Links</title><link href="http://localhost:4000/links" rel="alternate" type="text/html" title="Startup Links" /><published>2017-06-30T17:50:00+00:00</published><updated>2017-06-30T17:50:00+00:00</updated><id>http://localhost:4000/links</id><content type="html" xml:base="http://localhost:4000/links">&lt;p&gt;Here’s a list of my favorite startup articles, essays and videos.&lt;/p&gt;
 
 &lt;h3 id=&quot;customer-obsession&quot;&gt;Customer Obsession&lt;/h3&gt;
 
@@ -760,10 +760,16 @@
     &lt;p&gt;&lt;a href=&quot;https://trackchanges.postlight.com/against-storytelling-7e53b6d7a0d8&quot;&gt;Against Storytelling&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://youtu.be/TNYbcqyyj68&quot;&gt;Steve Jobs on Brand&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://library.gv.com/the-three-hour-brand-sprint-3ccabf4b768a&quot;&gt;Google Ventures Brand Sprint&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/kirkphillips/the-9-crit/10-What_you_make_people_feel&quot;&gt;What you make people feel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://investorfieldguide.com/duda/&quot;&gt;Michael Duda – Investing In Brands&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -846,4 +852,4 @@
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZXsQAXx_ao0&quot;&gt;Shia LaBeouf “Just Do It”&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here’s a list of helpful articles, essays and videos.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Here’s a list of my favorite startup articles, essays and videos.</summary></entry></feed>
