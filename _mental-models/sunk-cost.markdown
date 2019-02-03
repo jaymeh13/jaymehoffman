@@ -2,6 +2,7 @@
 title: Sunk Cost
 date: 2017-10-06 08:32:00 Z
 permalink: mental-models/sunk-cost
+layout: page
 ---
 
 Sunk cost is the cost that’s already been paid and cannot be recovered.
