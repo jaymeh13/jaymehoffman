@@ -1,6 +1,8 @@
 ---
 title: Compounding
-date: 2019-02-03 08:27:00 Z
+date: 2017-10-06 08:27:00 Z
+permalink: mental-models/compounding
+layout: page
 ---
 
 Compounding is when your interest earns interest. **It’s the growth on your previous growth.** It applies to so much more than just your investments and credit cards.
