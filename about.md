@@ -19,6 +19,6 @@ Jayme Hoffman is an entrepreneur, husband, new dad and [mental model enthusiast]
 
 * 2015 Head of Growth, [NC2 Media](http://nc2media.com/) (Lonely Planet Labs)
 
-* 2014 CEO, Second Chance Technologies (BuyHappy)
+* 2014 CEO, [BuyHappy](https://angel.co/buyhappy)
 
 * 2012 Co-founder & CEO, [Acacia Interactive](https://angel.co/acacia)
