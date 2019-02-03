@@ -11,9 +11,7 @@ I think about compounding as it applies to knowledge, relationships, business, w
 
 > Compound interest is the eighth wonder of the world. He who understands it, earns it … he who doesn’t … pays it. — Albert Einstein
 
-**SNOWBALL**
-
-\
+**SNOWBALL**\
 Imagine a small, 3 inch snowball rolling across the snow. The small snowball picks up snow slowly (interest) with each roll. The snowball grows to 2x, 3x, 4x… The newly collected snow (interest) allows the snowball to pick up even more snow as it moves across the snow.
 
 Now, imagine this snowball is your knowledge of a particular subject or your relationship with a close friend or your blog’s audience. Make small investments in these areas and watch your growth compound.
