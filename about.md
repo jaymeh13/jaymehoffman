@@ -5,7 +5,7 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-Jayme Hoffman is an entrepreneur, husband, and new dad.
+Jayme Hoffman is an entrepreneur, husband, new dad and [mental model enthusiast](https://jaymehoffman.com/mental-models).
 
 #### Now
 
