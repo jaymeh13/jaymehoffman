@@ -29,6 +29,8 @@ Arthur Rock, Fairchild Semiconductor: “Give me a giant market — always.”
 
 [Nicolas Bustamante](https://medium.com/@nico_bst/how-to-identify-a-good-market-to-launch-a-successful-startup-d82214f07551): The market is growing and so the problem increases.
 
+[Sahil Lavingia](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7): It doesn’t matter how amazing your product is, or how fast you ship features. The market you’re in will determine most of your growth.
+
 
 
 #### Good markets are rich and hungry.
