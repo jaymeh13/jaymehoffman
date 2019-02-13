@@ -516,7 +516,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 10px;
+  margin-bottom: 6px;
   line-height: 1.7; }
 
 /**
@@ -560,11 +560,12 @@ blockquote {
   color: rgba(0, 0, 0, 0.84);
   border-left: 3px solid rgba(0, 0, 0, 0.84);
   padding-left: 20px;
-  font-size: 21px;
+  font-size: 22px;
   letter-spacing: -.3px;
   font-style: italic;
   font-family: serif;
-  margin-top: 20px; }
+  margin-top: 20px;
+  margin-bottom: 20px; }
 
 blockquote > :last-child {
   margin-bottom: 0; }
