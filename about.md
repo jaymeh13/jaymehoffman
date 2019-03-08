@@ -5,11 +5,11 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-Jayme Hoffman is an entrepreneur, husband, new dad and [mental modelist](https://jaymehoffman.com/mental-models).
+Jayme Hoffman is an entrepreneur, husband, new dad and [mental model enthusiast](https://jaymehoffman.com/mental-models).
 
 #### Now
 
-* Helping Keller Williams Realty, the world's largest real estate company, [build consumer tech](https://www.inman.com/2018/09/05/keller-williams-acquires-app-startup-smarteragent-to-compete-with-zillow-redfin/).
+* Helping Keller Williams Realty, the world's largest real estate company, [build consumer tech](https://www.linkedin.com/feed/update/urn:li:activity:6503065994846617600/).
 
 * Thinking about what to start next.
 
