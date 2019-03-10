@@ -1,6 +1,6 @@
 ---
 title: True Fans
-date: 2016-10-20 13:45:00 Z
+date: 2016-05-20 13:45:00 Z
 permalink: mental-models/true-fans
 layout: page
 ---
