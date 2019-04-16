@@ -29,6 +29,8 @@ Here's a list of my favorite startup articles, essays and videos.
 
 * [Ideas are just a multiplier of execution](https://sivers.org/multiply)
 
+* [Heuristics to Generate Startup Ideas](https://avichal.com/2019/02/24/heuristics-to-generate-startup-ideas/)
+
 * [The next big thing will start out looking like a toy](http://cdixon.org/2010/01/03/the-next-big-thing-will-start-out-looking-like-a-toy/)
 
 * [How to Start a Startup](http://paulgraham.com/start.html)
