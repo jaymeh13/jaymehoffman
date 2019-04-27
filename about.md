@@ -5,7 +5,9 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-Jayme Hoffman is a husband, new dad, and entrepreneur.
+![](https://res.cloudinary.com/dlamuk5vl/image/upload/v1556400970/yc_yubrlh.jpg)
+
+### Jayme Hoffman is a husband, new dad, and entrepreneur.
 
 #### Now
 
