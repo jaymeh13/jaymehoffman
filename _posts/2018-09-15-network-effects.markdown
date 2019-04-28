@@ -106,3 +106,7 @@ Network Effects aren't just for tech companies.
 
 
 [Originally tweet stormed at @jaymehoffman](https://twitter.com/jaymehoffman/status/1037468438309085185)
+
+
+## Other great posts
+* [Exploring Network Economics](https://docuri.com/download/exploring-network-economics_59bf384af581716e46c31e1e_pdf)
