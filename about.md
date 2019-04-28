@@ -5,7 +5,7 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-### Jayme Hoffman is a husband, new dad, and entrepreneur.
+Jayme Hoffman is a husband, new dad, and entrepreneur.
 
 #### Now
 
