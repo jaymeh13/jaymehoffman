@@ -19,7 +19,7 @@ Here's a list of my favorite startup articles, essays and videos.
 
 * [SoftBank Commercial](https://www.youtube.com/watch?time_continue=2&v=pgKcwEkip9I)
 
-### Getting Ideas
+### Ideas
 
 > Given one hour to save the world, I would spend 55 minutes defining the problem and 5 minutes finding the solution. - Albert Einstein\*
 
@@ -35,7 +35,7 @@ Here's a list of my favorite startup articles, essays and videos.
 
 * [How to Start a Startup](http://paulgraham.com/start.html)
 
-### Testing & Building Products
+### Product
 
 > And you can always feel product/market fit when it's happening. The customers are buying the product just as fast as you can make it -- or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You're hiring sales and customer support staff as fast as you can. Reporters are calling because they've heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck's. - Pmarca
 
@@ -53,7 +53,7 @@ Here's a list of my favorite startup articles, essays and videos.
 
 * [90% of Feedback is Crap: How to Find the Next Big Startup Idea](http://firstround.com/review/90-of-feedback-is-crap-how-to-find-the-next-big-startup-idea/)
 
-* [Blog first startups](https://medium.com/on-startups/blog-first-startups-968ebef44a56)
+* [Product Vs. Business](https://www.youtube.com/watch?v=zfOsP3PmI1U)
 
 ### Platforms, Marketplaces & Networks
 
@@ -65,7 +65,7 @@ Here's a list of my favorite startup articles, essays and videos.
 
 * [Pipelines, Platforms, and the New Rules of Strategy](https://hbr.org/2016/04/pipelines-platforms-and-the-new-rules-of-strategy)
 
-### Growing Products
+### Growth
 
 > Dominate a small yet extensible market first: Facebook - Harvard, Amazon - books, Netflix - DVD mailers, Uber - town cars in SF - [David Sacks](https://twitter.com/davidsacks/status/689848729839411201)
 
@@ -93,7 +93,7 @@ Here's a list of my favorite startup articles, essays and videos.
 
 * [Michael Duda – Investing In Brands](http://investorfieldguide.com/duda/)
 
-### Team / Culture
+### Team
 
 > *People don’t buy what you do. They buy why you do it. - Simon Sinek*
 
