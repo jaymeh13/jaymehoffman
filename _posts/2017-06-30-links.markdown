@@ -43,6 +43,8 @@ Here's a list of my favorite startup articles, essays and videos.
 
 * [12 Things about PMF](http://a16z.com/2017/02/18/12-things-about-product-market-fit/)
 
+* [Fundamentals of Product-Market Fit](https://www.holloway.com/s/rvc-fundamentals-of-product-market-fit)
+
 * [A Minimum Viable Product Is Not a Product, It’s a Process](http://blog.ycombinator.com/minimum-viable-product-process/)
 
 * [The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
