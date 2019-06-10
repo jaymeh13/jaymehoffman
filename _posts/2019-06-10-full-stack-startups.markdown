@@ -47,27 +47,27 @@ Here’s a list of companies and the incumbents they compete against.
 * Instacart/Rappi: grocery stores 
 * BlueApron: fast food
 
-💸Finance/Insurance
+**💸Finance/Insurance**
 * Lemonade: home insurance 
 * Wealthfront: investors
 * Atrium: lawyers
 
-👩‍⚕️Health
+**👩‍⚕️Health**
 * Smile Direct Club: dentist
 * Honor: home healthcare
 * Peloton: fitness class
 * Oscar: health insurance 
 * Headspace: meditation 
 
-🎬Entertainment
+**🎬Entertainment**
 * Netflix: cable 
 
-👚Apparel 
+**👚Apparel **
 * Stich Fix: mall
 * Atoms: shoes
 * Warby Parker: glasses
 
-📚Education
+**📚Education**
 * VIP Kid: music tutors 
 * Lambda: college
 	
