@@ -9,16 +9,17 @@ In 2016, my co-founder and I started a marketplace for residential home inspecti
 
 We built a platform, convinced home inspectors and agents to use our tools and expanded to Tennessee and Texas before getting acquired by Keller Williams. It was a great outcome but it could've been much bigger...
 
-Our biggest mistake was not going full-stack. We could've completely reimagined the service, provided a 10x experience, competed head-on with incumbents that didn't want to adopt technology and captured way more of the transaction. But we didn’t… We felt the marketplace model was much more "scaleable" and overlooked the bigger opportunity. Hindsight is tough.
+Our biggest mistake was not going full-stack. We could've completely reimagined the service, provided a 10x experience, competed head-on with incumbents that didn't want to adopt technology and captured way more of the transaction. But, we didn’t… We felt the marketplace model was much more "scaleable" and overlooked the bigger opportunity. Hindsight is great. 
 
-Here are some observations and resources on building full-stack startups. 
+Here are observations and resources on building full-stack startups. 
 
 ### What is a full-stack startup? 
 Full-stack (AKA full-solution or whole product) startups provide a complete, end-to-end product experience. 
 
 [Andreessen Horowitz](https://a16z.com/2015/01/22/the-full-stack-startup/) — The old approach startups took was to sell or license their new technology to incumbents. The new, “full stack” approach is to build a complete, end-to-end product or service that bypasses incumbents and other competitors
 
-When do you go full-stack? 
+**When do you go full-stack?**
+ 
 1. “If your technology is better but potential customers are too set in their ways to switch, use it yourself and compete with them.” — [Paul Graham](https://twitter.com/paulg/status/1027237216597110784)  
 2. “An addendum: if the total number of prospective customers is small/concentrated, it’s almost never worth it — go full stack and compete.” — [Alex Rampell](https://twitter.com/arampell/status/1027417990738759680)
 
