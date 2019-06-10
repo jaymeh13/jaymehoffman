@@ -62,7 +62,7 @@ Here’s a list of companies and the incumbents they compete against.
 **🎬Entertainment**
 * Netflix: cable 
 
-**👚Apparel **
+**👚Apparel**
 * Stich Fix: mall
 * Atoms: shoes
 * Warby Parker: glasses
