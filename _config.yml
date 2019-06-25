@@ -9,10 +9,6 @@ collections:
   posts:
     title: Posts
     output: true
-  updates:
-    title: Updates
-    output: true
-    permalink: updates
   uploads:
     title: Uploads
     output: true
