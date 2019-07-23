@@ -22,5 +22,3 @@ Jayme Hoffman is a husband, new dad, and entrepreneur.
 * 2014 CEO, [BuyHappy](https://angel.co/buyhappy)
 
 * 2012 Co-founder & CEO, [Acacia Interactive](https://angel.co/acacia)
-
-![](https://res.cloudinary.com/dlamuk5vl/image/upload/v1556400970/yc_yubrlh.jpg)
