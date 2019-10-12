@@ -10,11 +10,11 @@ layout: post
 
 Network Effects are the most powerful force in business. 
 
-They produced some of the most iconic products and companies ever. Examples: WhatsApp, Airbnb, Google, Amazon, Alibaba, Uber, ebay, Facebook, Opentable, WeChat and Twitter.
+They produced some of the most iconic products and companies. Examples include WhatsApp, Airbnb, Google, Amazon, Alibaba, Uber, ebay, Facebook, Opentable, WeChat and Twitter.
 
 According to venture capital firm, NFX, network effects are responsible for 70% of the value created by tech companies since the Internet became a thing in 1994 🤯
 
-Here are my favorite posts on Network Effects.
+Here are some of my favorite posts on Network Effects...
 
 
 ### [Anu Hariharan on Network Effects](https://blog.ycombinator.com/anu-hariharan-on-network-effects/)
