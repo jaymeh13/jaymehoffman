@@ -2,8 +2,7 @@
 title: Top 8 Posts on Network Effects
 date: 2018-09-15 00:00:00 Z
 permalink: "/network-effects/"
-description: The top 8 posts on Network Effects every founder should read. By Jayme
-  Hoffman
+description: 'Here are the top posts on Network Effects every founder should read. '
 image: https://image.slidesharecdn.com/networkeffects-v6final-160307161248/95/network-effects-3-638.jpg
 layout: post
 ---
@@ -95,11 +94,11 @@ Outline
 
 
 ### [The Kardashian Network Effect](https://twitter.com/andrewchen/status/1018933551553810432)
-Last but not least, [Andrew Chen](https://twitter.com/andrewchen) gives the world a new mental model 😉
+Last but not least, [Andrew Chen](https://twitter.com/andrewchen) gives the world a new way to think about network effects...
 
 **The Kardashian Network Effect** - Cross promotion platform built by multiple mutually reinforcing social accounts that cross-promote each other
 
-Network Effects aren't just for tech companies.
+Network Effects aren't just for tech companies ;)
 
 ![](https://i.imgur.com/Bb6u0ke.png)
 
