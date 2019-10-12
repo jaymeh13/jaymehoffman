@@ -7,11 +7,13 @@ layout: post
 
 In 2016, my co-founder and I started a marketplace for residential home inspections. Our goal was to streamline real estate transactions and collect valuable home inspection data. 
 
-We built a platform, convinced home inspectors and agents to use our tools and expanded to Tennessee and Texas before getting acquired by Keller Williams. It was a great outcome but it could've been much bigger...
+We built a platform, convinced home inspectors and agents to use our tools and expanded to Tennessee and Texas before getting acquired by Keller Williams. It was a great outcome but it should've been much bigger...
 
-Our biggest mistake was not going full-stack. We could've completely reimagined the service, provided a 10x experience, competed head-on with incumbents that didn't want to adopt technology and captured way more of the transaction. But, we didn’t… We felt the marketplace model was much more "scaleable" and overlooked the bigger opportunity. Hindsight is great. 
+Our biggest mistake was not going full-stack. We could've completely reimagined the inspection service, provided a 10x experience, competed head-on with incumbents that didn't want to adopt technology and captured way more of the transaction. But, we didn’t… we felt the marketplace model was much more "scaleable" and overlooked the bigger opportunity. 
 
-Here are observations and resources on building full-stack startups. 
+Hindsight is great :) 
+
+Here are some observations and resources on building full-stack startups. 
 
 ### What is a full-stack startup? 
 Full-stack (AKA full-solution or whole product) startups provide a complete, end-to-end product experience. 
