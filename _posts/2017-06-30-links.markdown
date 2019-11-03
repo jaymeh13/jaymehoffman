@@ -41,13 +41,12 @@ Here's a list of my favorite startup articles, essays and videos.
 
 * [The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)
 
-* [12 Things about PMF](http://a16z.com/2017/02/18/12-things-about-product-market-fit/)
+* [Ten rules for web startups : Evan Williams
+](https://kevin.lexblog.com/2005/11/29/ten-rules-for-web-startups-evan-williams/)
 
 * [Fundamentals of Product-Market Fit](https://www.holloway.com/s/rvc-fundamentals-of-product-market-fit)
 
 * [A Minimum Viable Product Is Not a Product, It’s a Process](http://blog.ycombinator.com/minimum-viable-product-process/)
-
-* [The MVP is dead. Long live the RAT.](https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02)
 
 * [How to Find Product Market Fit - CS183F ( video )](https://www.youtube.com/watch?v=_6pl5GG8RQ4&feature=youtu.be&t=37m32s)
 
@@ -56,6 +55,8 @@ Here's a list of my favorite startup articles, essays and videos.
 * [90% of Feedback is Crap: How to Find the Next Big Startup Idea](http://firstround.com/review/90-of-feedback-is-crap-how-to-find-the-next-big-startup-idea/)
 
 * [Product Vs. Business](https://www.youtube.com/watch?v=zfOsP3PmI1U)
+
+* [Your Work Is the Only Thing That Matters](https://humanparts.medium.com/your-work-is-the-only-thing-that-matters-26a47ccf778c)
 
 ### Platforms, Marketplaces & Networks
 
