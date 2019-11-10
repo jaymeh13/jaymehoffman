@@ -9,7 +9,7 @@ Jayme Hoffman is a husband, new dad, and entrepreneur.
 
 #### Now
 
-* Helping Keller Williams Realty, the world's largest real estate company, [build consumer tech](https://www.linkedin.com/feed/update/urn:li:activity:6503065994846617600/).
+* Helping Keller Williams Realty, the world's largest real estate company, [build consumer tech](https://www.linkedin.com/posts/jaymehoffman_kw-activity-6568565937732145152-zyFD).
 
 * Thinking about what to start next.
 
