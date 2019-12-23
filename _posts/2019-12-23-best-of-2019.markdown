@@ -2,6 +2,7 @@
 title: Best of 2019
 date: 2019-12-23 14:12:00 Z
 permalink: best-of-2019
+image: "/uploads/red_dices_changing_from_2019_to_2020.jpeg.jpg"
 ---
 
 Each month, I keep a log of lessons, links and quotes. Here are my favorite of 2019. 
