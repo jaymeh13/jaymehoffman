@@ -5,7 +5,7 @@ permalink: best-of-2019
 image: "/uploads/red_dices_changing_from_2019_to_2020.jpeg.jpg"
 ---
 
-Each month, I keep a log of lessons, links and quotes. Here are my favorite of 2019. 
+Each month, I keep a log of lessons, links and quotes. Here are my favorite of 2019.
 
 ## Life
 
@@ -17,25 +17,25 @@ Each month, I keep a log of lessons, links and quotes. Here are my favorite of 2
 
 ## Relationships
 
-* Be quiet when others succeed and are doing good. Be encouraging when others fail. — Ovitz
+* "Be quiet when others succeed and are doing good. Be encouraging when others fail." — Ovitz
 
 * Life is people. Fundamentally, humans are all the same (99.5% dna, water, same parts). The people in our life is what makes up our life. Cherish your people.
 
-* It's enormously important that you do have the right friends. The ultimate gift is that they make you a better person. — Buffet
+* "It's enormously important that you do have the right friends. The ultimate gift is that they make you a better person." — Buffet
 
 ## Ideas
 
 * “Everything on earth depends on will. I never had an idea in my life. I’ve got no imagination. I never dream. My so-called inventions already existed in the environment—I took them out. I’ve created nothing. Nobody does. There’s no such thing as an idea being brain-born. Everything comes from the outside. The industrious one coaxes it from the environment.” — [Edison](https://www.theatlantic.com/magazine/archive/2019/11/edmund-morris-edison/598357/)
 
-* Nothing in Hollywood is anything until its something. and the only way to make it something is with a profound set of belief. If you keep insisting that a shifting set of coexisting possibilities is a movie, it eventually becomes one... Sometimes. — Michael Ovitz
+* "Nothing in Hollywood is anything until it's something. and the only way to make it something is with a profound set of belief. If you keep insisting that a shifting set of coexisting possibilities is a movie, it eventually becomes one... Sometimes." — Michael Ovitz
 
-* Don’t set an arbitrary time. When you set an arbitrary time, you say alright, I’m going to spend this quarter picking ideas. What tends to happen is you focus on set reduction. You say “I’m going to quickly build a set of ideas and then I’m going to spend the next three months reducing them to find the one idea.” In most cases, the best pickers are people who are consistently focused on set expansion. They don’t feel the time pressure of an arbitrary deadline so they’re consistently reevaluating and consistently collecting data. — Josh Kopelman
+* "Don’t set an arbitrary time. When you set an arbitrary time, you say alright, I’m going to spend this quarter picking ideas. What tends to happen is you focus on set reduction. You say “I’m going to quickly build a set of ideas and then I’m going to spend the next three months reducing them to find the one idea.” In most cases, the best pickers are people who are consistently focused on set expansion. They don’t feel the time pressure of an arbitrary deadline so they’re consistently reevaluating and consistently collecting data." — Josh Kopelman
 
 * "The only people that can judge the idea are the ones that need it, will pay for it, and want to sign up for it before it’s even ready." — [David Cummings](https://davidcummings.org/2019/01/19/avoid-judging-an-entrepreneurs-idea/)
 
 ## Strategy
 
-* Staying flexible gives you optionality \*“My only plan is to keep coming to work every day. I like to steer the boat each day rather than plan ahead way into the future.”“I know a lot of people have very strong and definite plans that they’ve worked out on all kinds of things, but we’re subject to a tremendous number of outside influences and the vast majority of them cannot be predicted. So my idea is to stay flexible.” — [Henry Singleton via 25iq](https://25iq.com/2014/11/08/a-dozen-things-ive-learned-from-henry-singleton-about-value-investing-venture-capital/)
+* Staying flexible gives you optionality - “My only plan is to keep coming to work every day. I like to steer the boat each day rather than plan ahead way into the future. I know a lot of people have very strong and definite plans that they’ve worked out on all kinds of things, but we’re subject to a tremendous number of outside influences and the vast majority of them cannot be predicted. So my idea is to stay flexible.” — [Henry Singleton via 25iq](https://25iq.com/2014/11/08/a-dozen-things-ive-learned-from-henry-singleton-about-value-investing-venture-capital/)
 
 * "It’s easier to do a hard startup than an easy startup. People want to be part of something exciting and feel that their work matters." - [Sama](http://blog.samaltman.com/how-to-be-successful)
 
@@ -47,17 +47,17 @@ Each month, I keep a log of lessons, links and quotes. Here are my favorite of 2
 
 ## Product
 
-* I tell first-time founders to make sure their product solves a core problem in people’s lives. Far too many entrepreneurs build whatever they think is cool and forget to ask whether it will actually be useful to people. The great companies start by defining the problem they’re going to solve, and then everything they do is rooted in that effort. - [Kevin Systrom via Sequia](https://www.sequoiacap.com/newsletter/2019-09-10-kevin-systrom)
+* "I tell first-time founders to make sure their product solves a core problem in people’s lives. Far too many entrepreneurs build whatever they think is cool and forget to ask whether it will actually be useful to people. The great companies start by defining the problem they’re going to solve, and then everything they do is rooted in that effort." — [Kevin Systrom via Sequia](https://www.sequoiacap.com/newsletter/2019-09-10-kevin-systrom)
 
-* Don't make badass products, make badass users. Badass users are smarter, more skillful, more powerful users. Users who know more and can do more in a way that's personally meaningful. Upgrade your user, not your product. Don’t build better cameras — build better photographers. - How do you make them badass and at what? - [Badass](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/ref=sr_1_1?crid=6TIH85CUFCZP&keywords=making\+users\+awesome&qid=1576874913&sprefix=making\+users\+a%2Caps%2C149&sr=8-1)
+* "Don't make badass products, make badass users. Badass users are smarter, more skillful, more powerful users. Users who know more and can do more in a way that's personally meaningful. Upgrade your user, not your product. Don’t build better cameras — build better photographers." How do you make users badass and at what? — [Badass](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019/ref=sr_1_1?crid=6TIH85CUFCZP&keywords=making\+users\+awesome&qid=1576874913&sprefix=making\+users\+a%2Caps%2C149&sr=8-1)
 
-* *Be Narrow*. Focus on the smallest possible problem you could solve. There’s a resistance to focusing from a fear of being trivial. If you get to be #1 in your category, but your category is too small, then you can broaden your scope. - [Ev](https://kevin.lexblog.com/2005/11/29/ten-rules-for-web-startups-evan-williams/)
+* *"Be Narrow*. Focus on the smallest possible problem you could solve. There’s a resistance to focusing from a fear of being trivial. If you get to be #1 in your category, but your category is too small, then you can broaden your scope." — [Ev](https://kevin.lexblog.com/2005/11/29/ten-rules-for-web-startups-evan-williams/)
 
-* When do I know is the right time to ship a product? When your product has fulfilled the promise you set out to achieve for the customer. It’s not about features. It’s not about sprints. It’s not about dates. All that matters is you believe the promise is answered. - [Norgard](https://twitter.com/BrianNorgard/status/1179800572922228741)
+* "When do I know is the right time to ship a product? When your product has fulfilled the promise you set out to achieve for the customer. It’s not about features. It’s not about sprints. It’s not about dates. All that matters is you believe the promise is answered." — [Norgard](https://twitter.com/BrianNorgard/status/1179800572922228741)
 
-* What are you selling? -- This is the secret. Everyone focuses on other shit that doesn't matter. It's like... What's your conversion rate or this or that? Wait, what are you selling? Whenever I sit down, I always talk about the product because that shit is the most exciting. That's why we're here. That's what we're selling. I'm not selling some arbitrage on Facebook or some access to an email list. It's so simple, I make the best beanbag ever. That's it. That's why we're here. There really is much else to talk about. -- He (5hr energy guy) said the same shit. Why haven't Coke or Pepsi or whoever come and knock you out of the water? They always forget about the most important thing. It's the product. I made the best formula and no one can copy it. - [Gravity Blanket](https://open.spotify.com/episode/5tYveoMc8e4iJSdPCZn34a?context=spotify%3Acollection%3Apodcasts%3Adownloads&si=5icbVk7QSIWz30aOdDmLNw)
+* "What are you selling? -- This is the secret. Everyone focuses on other shit that doesn't matter. It's like... What's your conversion rate or this or that? Wait, what are you selling? Whenever I sit down, I always talk about the product because that shit is the most exciting. That's why we're here. That's what we're selling. I'm not selling some arbitrage on Facebook or some access to an email list. It's so simple, I make the best beanbag ever. That's it. That's why we're here. There really is much else to talk about. -- He (5hr energy guy) said the same shit. Why haven't Coke or Pepsi or whoever come and knock you out of the water? They always forget about the most important thing. It's the product. I made the best formula and no one can copy it." — [Gravity Blanket](https://open.spotify.com/episode/5tYveoMc8e4iJSdPCZn34a?context=spotify%3Acollection%3Apodcasts%3Adownloads&si=5icbVk7QSIWz30aOdDmLNw)
 
-* You don’t have a business until you have a product, in particular you don’t have a business until you have a product that a lot of people want. - [pmarca](https://www.youtube.com/watch?v=zfOsP3PmI1U)
+* "You don’t have a business until you have a product, in particular you don’t have a business until you have a product that a lot of people want." — [pmarca](https://www.youtube.com/watch?v=zfOsP3PmI1U)
 
 ## Mental Models
 
