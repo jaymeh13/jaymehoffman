@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 permalink: "/about/"
 image: "/assets/og-image.png"
 layout: page
