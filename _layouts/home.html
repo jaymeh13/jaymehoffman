@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h1 class="post-list-heading">{{ page.list_title | default: "posts" }}</h1>
+    <h1 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1>
     <ul class="post-list">
       {%- for post in site.posts limit:3 -%}
       <li>
@@ -32,7 +32,7 @@ layout: default
   {%- endif -%}
   
   {%- if site.mental-models.size > 0 -%}
-    <h1 class="post-list-heading">{{ page.list_title | default: "mental models" }}</h1>
+    <h1 class="post-list-heading">{{ page.list_title | default: "Mental Models" }}</h1>
     <ul class="post-list">
       {%- assign model-list = site.mental-models | reverse -%}
       {%- for post in model-list limit:3 -%}
@@ -55,7 +55,7 @@ layout: default
     </ul>
   {%- endif -%}
 
-  <div class="tweets">
+  <div class="Tweets">
     <h1 class="post-list-heading">tweets</h1>
     <a class="twitter-timeline" href="https://twitter.com/jaymehoffman" data-chrome="nofooter noheader"></a>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
