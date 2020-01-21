@@ -1,5 +1,5 @@
 ---
-title: contact
+title: Contact
 permalink: "/contact/"
 image: "/assets/og-image.png"
 layout: page
