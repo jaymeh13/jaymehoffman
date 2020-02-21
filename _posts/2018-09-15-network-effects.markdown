@@ -110,3 +110,6 @@ Network Effects aren't just for tech companies ;)
 ## Other great posts on network effects
 * [Exploring Network Economics](https://docuri.com/download/exploring-network-economics_59bf384af581716e46c31e1e_pdf)
 * [28 ways to grow supply in a marketplace — by Lenny Rachitsky, ex-Airbnb](https://andrewchen.co/grow-marketplace-supply/)
+* [
+Required reading for marketplace startups: The 20 best essays
+](https://andrewchen.co/marketplace-startups-best-essays/)
