@@ -19,10 +19,14 @@ Josh Koppleman talks about the importance of “The Pick” and the mistakes fou
 
 Chris Dixon [sheds light on founder/market fit](https://cdixon.org/2011/06/19/foundermarket-fit), a term [coined by David Lee](https://techcrunch.com/2011/06/03/svangel-peak-age-old-entrpreneurs/). Before product/market fit, founders must choose or “fit” their market. Having founder/market fit means “the founders have a deep understanding of the market they are entering, and are people who “personify their product, business and ultimately their company.” 
 
+
 PGs 2005 essay, [How to start a startup](http://paulgraham.com/start.html) goes into detail on why you don’t need a good idea to start a startup. TL;DR advice… “look at something people are trying to do, and figure out how to do it in a way that doesn’t suck.”
+
 
 Ev Williams give similar advice to PG in an [XOXO talk](https://www.youtube.com/watch?v=zR1xDBFdRZ0)… “Take a human desire, preferably one that has been around for a really long time… Identify that desire and use modern technology to take out steps.” He describes the internet as “a giant machine designed to give people what they want.” 
 
+
 [Balaji Srinivasan’s](https://www.coursera.org/course/startup) [Idea Maze white paper](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf) explains that “good ideas are a bird’s eye view of the idea maze, understanding all the permutations of the idea and the branching of the decision tree, gaming things out to the end of each scenario.” As a gamer, I find this mindset advice particularly helpful… “The execution mindset is thus about running the maze rapidly. Think of each task on the list as akin to exploring a turn of the maze. The most important tasks are those that get you to the maze exit, or at least a treasure chest with some powerups.” [Chris Dixon’s post](https://cdixon.org/2013/08/04/the-idea-maze) does a good job of summarizing Balaji’s paper. 
+
 
 All of YC’s [advice on evaluating ideas](https://www.startupschool.org/videos/62) including this [Dalton Caldwell talk](https://www.youtube.com/watch?v=uoZ1fCYxOyU). Few important factors when evaluating ideas: Do people want this? Has anyone tried this before? Why are you the team to tackle this problem? Why are you excited about the idea? Is the problem popular, growing, urgent, expensive, mandatory or frequent? 
