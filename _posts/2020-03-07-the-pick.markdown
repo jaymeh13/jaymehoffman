@@ -2,6 +2,7 @@
 title: The Pick
 date: 2020-03-07 18:59:00 Z
 permalink: the-pick
+layout: post
 ---
 
 Picking what to start is the most exciting and terrifying phase of starting a new company. Every entrepreneur goes through this phase and yet there is shockingly little information about how to navigate it. 
@@ -11,6 +12,7 @@ The pick accounts for a [large percentage](https://twitter.com/bmrothenberg/stat
 Luckily, entrepreneurship is a [no-called-strike game](https://www.csmonitor.com/Business/2013/0830/Warren-Buffett-10-pieces-of-investment-advice-from-America-s-greatest-investor/Price-is-what-you-pay-value-is-what-you-get.-Whether-we-re-talking-about-socks-or-stocks-I-like-buying-quality-merchandise-when-it-is-marked-down.). You don’t have to swing at every opportunity that comes along. You can take your time, [research](https://austenallred.com/successful-entrepreneurs-are-usually-liars-1d952c90a8e3) and [test assumptions](https://blog.ycombinator.com/minimum-viable-product-process/) before going all-in. 
 
 I’m currently exploring what to start next. Here are a handful posts that I’ve found helpful.
+
 —
 
 Josh Koppleman talks about the importance of “The Pick” and the mistakes founders make in this [Twenty Minute VC podcast](http://www.thetwentyminutevc.com/joshkopelman/). He explains that setting an arbitrary time forces founders to focus on set reduction when they should focus on set expansion. “You say… I’m going to quickly build a set of ideas and then I’m going to spend the next 3 months reducing them to reducing that set to find the one idea. In most cases, the best pickers are people who are constantly focused on set expansion. They don’t feel the time pressure of an arbitrary deadline. So they’re consistently reevaluating and consistently collecting data.”
