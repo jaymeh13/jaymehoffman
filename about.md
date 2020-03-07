@@ -5,15 +5,11 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-Jayme Hoffman is a husband, new dad, and entrepreneur.
-
 #### Now
-
-* Helping Keller Williams Realty, the world's largest real estate company, [build consumer tech](https://www.linkedin.com/posts/jaymehoffman_kw-activity-6568565937732145152-zyFD).
-
-* Thinking about what to start next.
+* Exploring what to start next. 
 
 #### Past
+* 2020 PM [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_kw-activity-6568565937732145152-zyFD), Keller Williams
 
 * 2016 Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams)
 
