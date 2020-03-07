@@ -1,0 +1,26 @@
+---
+title: The Pick
+date: 2020-03-07 18:59:00 Z
+permalink: the-pick
+---
+
+Picking what to start is the most exciting and terrifying phase of starting a new company. Every entrepreneur goes through this phase and yet there is shockingly little information about how to navigate it. 
+
+The pick accounts for a [large percentage](https://twitter.com/bmrothenberg/status/998740730020495360) of your success. Pick wrong and waste years of your life on a dead-end. Pick right and spend +10 years getting to a successful outcome. 
+
+Luckily, entrepreneurship is a [no-called-strike game](https://www.csmonitor.com/Business/2013/0830/Warren-Buffett-10-pieces-of-investment-advice-from-America-s-greatest-investor/Price-is-what-you-pay-value-is-what-you-get.-Whether-we-re-talking-about-socks-or-stocks-I-like-buying-quality-merchandise-when-it-is-marked-down.). You don’t have to swing at every opportunity that comes along. You can take your time, [research](https://austenallred.com/successful-entrepreneurs-are-usually-liars-1d952c90a8e3) and [test assumptions](https://blog.ycombinator.com/minimum-viable-product-process/) before going all-in. 
+
+I’m currently exploring what to start next. Here are a handful posts that I’ve found helpful.
+—
+
+Josh Koppleman talks about the importance of “The Pick” and the mistakes founders make in this [Twenty Minute VC podcast](http://www.thetwentyminutevc.com/joshkopelman/). He explains that setting an arbitrary time forces founders to focus on set reduction when they should focus on set expansion. “You say… I’m going to quickly build a set of ideas and then I’m going to spend the next 3 months reducing them to reducing that set to find the one idea. In most cases, the best pickers are people who are constantly focused on set expansion. They don’t feel the time pressure of an arbitrary deadline. So they’re consistently reevaluating and consistently collecting data.”
+
+Chris Dixon [sheds light on founder/market fit](https://cdixon.org/2011/06/19/foundermarket-fit), a term [coined by David Lee](https://techcrunch.com/2011/06/03/svangel-peak-age-old-entrpreneurs/). Before product/market fit, founders must choose or “fit” their market. Having founder/market fit means “the founders have a deep understanding of the market they are entering, and are people who “personify their product, business and ultimately their company.” 
+
+PGs 2005 essay, [How to start a startup](http://paulgraham.com/start.html) goes into detail on why you don’t need a good idea to start a startup. TL;DR advice… “look at something people are trying to do, and figure out how to do it in a way that doesn’t suck.”
+
+Ev Williams give similar advice to PG in an [XOXO talk](https://www.youtube.com/watch?v=zR1xDBFdRZ0)… “Take a human desire, preferably one that has been around for a really long time… Identify that desire and use modern technology to take out steps.” He describes the internet as “a giant machine designed to give people what they want.” 
+
+[Balaji Srinivasan’s](https://www.coursera.org/course/startup) [Idea Maze white paper](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf) explains that “good ideas are a bird’s eye view of the idea maze, understanding all the permutations of the idea and the branching of the decision tree, gaming things out to the end of each scenario.” As a gamer, I find this mindset advice particularly helpful… “The execution mindset is thus about running the maze rapidly. Think of each task on the list as akin to exploring a turn of the maze. The most important tasks are those that get you to the maze exit, or at least a treasure chest with some powerups.” [Chris Dixon’s post](https://cdixon.org/2013/08/04/the-idea-maze) does a good job of summarizing Balaji’s paper. 
+
+All of YC’s [advice on evaluating ideas](https://www.startupschool.org/videos/62) including this [Dalton Caldwell talk](https://www.youtube.com/watch?v=uoZ1fCYxOyU). Few important factors when evaluating ideas: Do people want this? Has anyone tried this before? Why are you the team to tackle this problem? Why are you excited about the idea? Is the problem popular, growing, urgent, expensive, mandatory or frequent? 
