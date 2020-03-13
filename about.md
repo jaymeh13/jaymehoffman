@@ -9,7 +9,7 @@ layout: page
 * Working on something new.
 
 #### Past
-* 2020 PM [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams
+* 2020 PM [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
 * 2016 Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams)
 
