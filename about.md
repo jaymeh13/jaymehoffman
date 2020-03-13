@@ -6,7 +6,7 @@ layout: page
 ---
 
 #### Now
-* Exploring what to start next.
+* Working on something new.
 
 #### Past
 * 2020 PM [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams
