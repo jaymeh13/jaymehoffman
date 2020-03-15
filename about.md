@@ -13,7 +13,7 @@ layout: page
 
 * May 2018 - [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
-* Aug. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams)
+* Aug. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams Realty)
 
 * Jan. 2015 - Head of Growth, [NC2 Media](http://nc2media.com/) (Lonely Planet Labs)
 
