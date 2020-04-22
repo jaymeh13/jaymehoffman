@@ -7,7 +7,7 @@ layout: page
 
 #### Now
 
-* Feb. 2020 - Exploring something new 🚀
+* April. 2020 - Exploring something new 🚀
 
 #### Past
 
