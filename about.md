@@ -20,3 +20,9 @@ layout: page
 * June 2014 - CEO, [BuyHappy](https://angel.co/buyhappy)
 
 * July 2012 - Co-founder & CEO, [Acacia Interactive](https://angel.co/acacia)
+
+#### Contact
+* [Twitter](https://twitter.com/jaymehoffman)
+* [Medium](https://medium.com/@jaymehoffman)
+* [Linkedin](https://www.linkedin.com/in/jaymehoffman/)
+* [email](mailto:Jayme(at)jaymehoffman.com)
