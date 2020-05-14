@@ -42,7 +42,7 @@ Here's a list of my favorite startup articles, essays and videos.
 * [The only thing that matters](http://pmarchive.com/guide_to_startups_part4.html)
 
 * [Ten rules for web startups : Evan Williams
-](https://kevin.lexblog.com/2005/11/29/ten-rules-for-web-startups-evan-williams/)
+  ](https://kevin.lexblog.com/2005/11/29/ten-rules-for-web-startups-evan-williams/)
 
 * [Fundamentals of Product-Market Fit](https://www.holloway.com/s/rvc-fundamentals-of-product-market-fit)
 
@@ -95,6 +95,8 @@ Here's a list of my favorite startup articles, essays and videos.
 * [What you make people feel](https://www.slideshare.net/kirkphillips/the-9-crit/10-What_you_make_people_feel)
 
 * [Michael Duda – Investing In Brands](http://investorfieldguide.com/duda/)
+
+* [Creating a brand to serve](https://medium.com/rekkiapp/creating-a-brand-to-serve-1b7fc84c55fa)
 
 ### Team
 
