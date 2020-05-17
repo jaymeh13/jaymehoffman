@@ -13,7 +13,7 @@ Regret minimization framework helps you make tough decisions by projecting to yo
 > — Jeff Bezos
 
 
-#### Links
+### Links
 
 * [Jeff Bezos — Regret Minimization Framework ( VIDEO )](https://www.youtube.com/watch?v=jwG_qR6XmDQ)
 
