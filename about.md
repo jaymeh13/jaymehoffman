@@ -5,16 +5,6 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-### Contact
-
-* [twitter](https://twitter.com/jaymehoffman)
-
-* [medium](https://medium.com/@jaymehoffman)
-
-* [linkedin](https://www.linkedin.com/in/jaymehoffman/)
-
-* [email](mailto:Jayme(at)jaymehoffman.com)
-
 ### Now
 
 * April 2020 - I'm currently full-time exploring what to start next. I'm dabbling in sustainable buildings, future of work, new social networks and personal healthcare 🚀
@@ -68,3 +58,13 @@ layout: page
 * [StudioNow](http://studionow.com/) - world's largest video production marketplace
 
 * [NashvilleTornadoHelp.org](http://nashvilletornadohelp.org/) - tornado relief non-profit
+
+### Contact
+
+* [twitter](https://twitter.com/jaymehoffman)
+
+* [medium](https://medium.com/@jaymehoffman)
+
+* [linkedin](https://www.linkedin.com/in/jaymehoffman/)
+
+* [email](mailto:Jayme(at)jaymehoffman.com)
