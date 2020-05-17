@@ -21,7 +21,7 @@ Be cautious and intentional of who you imitate since imitation is inevitable.
 > The most important choice in each of our lives may not be where to go to school, what career to pursue or even who to marry. It may be who to imitate. - [Imitatio](https://www.youtube.com/watch?v=OgB9p2BA4fw)
 
 
-### Memetic Theory Links
+### Mimetic Theory Links
 1. [René Girard Explains Mimetic Desire (Video)](https://www.youtube.com/watch?v=OgB9p2BA4fw)
 2. [René Girard and Mimetic Theory (post)](http://www.imitatio.org/brief-intro)
 3. [50 ideas that changed my life - David Perell](https://www.perell.com/blog/50-ideas-that-changed-my-life)
