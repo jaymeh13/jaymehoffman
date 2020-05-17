@@ -21,7 +21,7 @@ layout: page
 
 ### Past Work
 
-* May 2018 - [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams
+* May 2018 - [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
   * iOS/Android KW App
 
@@ -33,7 +33,7 @@ layout: page
 
   * Agent Sites
 
-* Aug. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams)
+* Aug. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by KW)
 
   * Home inspection marketplace
 
