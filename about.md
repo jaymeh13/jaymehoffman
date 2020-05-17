@@ -17,7 +17,7 @@ layout: page
 
 ### Now
 
-* April 2020 - I'm currently full-time exploring what to start next. I'm dabbling in sustainable buildings, future of work, new social networks and health.🚀
+* April 2020 - I'm currently full-time exploring what to start next. I'm dabbling in sustainable buildings, future of work, new social networks and personal healthcare 🚀
 
 ### Past Work
 
