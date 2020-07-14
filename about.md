@@ -51,11 +51,13 @@ layout: page
 
   * Wax 1.0 - tony hawk IRL video competitions
 
-### Advisor
+### Advise
 
-* [Foh&boh](https://fohandboh.com/) - vertical labor marketplace for the hospitality industry
+* [Foh&boh](https://fohandboh.com/) - Vertical labor marketplace for the hospitality industry.
 
-* [StudioNow](http://studionow.com/) - world's largest video production marketplace
+* [Powerbuy](https://apps.shopify.com/powerbuy) - Social Shopping as a Service
+
+* [StudioNow](http://studionow.com/) - World's largest video production marketplace.
 
 * [NashvilleTornadoHelp.org](http://nashvilletornadohelp.org/) - tornado relief non-profit
 
