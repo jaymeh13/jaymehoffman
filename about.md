@@ -7,7 +7,7 @@ layout: page
 
 ### Now
 
-* April 2020 - I'm currently exploring what to start next. I'm dabbling in sustainable buildings, future of work, new social networks and marketplaces 🚀
+* Working on a new company.
 
 ### Past Work
 
