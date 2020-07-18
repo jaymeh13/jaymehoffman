@@ -9,11 +9,23 @@ layout: page
 
 * Working on a new company.
 
-### Past Work
+### Work
+
+* 2020 - Advisor/Investor
+
+  * [Foh&boh](https://fohandboh.com/) - Vertical labor marketplace for the hospitality industry.
+
+  * [NashvilleTornadoHelp.org](http://nashvilletornadohelp.org/) - tornado relief non-profit.
+
+  * [Powerbuy](https://apps.shopify.com/powerbuy) - Social Shopping as a Service.
+
+  * [StudioNow](http://studionow.com/) - World's largest video production marketplace.
+
+  * [Golden Ratio](https://drinkgoldenratio.com/) - Golden Coffee. Drinks like tea, kicks like coffee.
 
 * May 2018 - [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
-  * iOS/Android KW App
+  * [KW App](https://apps.apple.com/us/app/kw-buy-sell-real-estate/id652512924)
 
   * KW.com
 
@@ -50,16 +62,6 @@ layout: page
   * Kiwi - short square mobile videos
 
   * Wax 1.0 - tony hawk IRL video competitions
-
-### Advise
-
-* [Foh&boh](https://fohandboh.com/) - Vertical labor marketplace for the hospitality industry.
-
-* [Powerbuy](https://apps.shopify.com/powerbuy) - Social Shopping as a Service
-
-* [StudioNow](http://studionow.com/) - World's largest video production marketplace.
-
-* [NashvilleTornadoHelp.org](http://nashvilletornadohelp.org/) - tornado relief non-profit
 
 ### Contact
 
