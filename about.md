@@ -23,6 +23,8 @@ layout: page
 
   * [Golden Ratio](https://drinkgoldenratio.com/) - Golden Coffee. Drinks like tea, kicks like coffee.
 
+  * Vest - Stealth consumer investing app.
+
 * May 2018 - [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
   * [KW App](https://apps.apple.com/us/app/kw-buy-sell-real-estate/id652512924)
