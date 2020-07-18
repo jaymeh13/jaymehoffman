@@ -11,8 +11,11 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h1 class="post-list-heading">Hi, I'm Jayme Hoffman.</h1>
-    <h3 class="intro-heading">I'm an entrepreneur, product advisor and breakfast taco fan based in Nashville. I'm currently working on something new.</h3>
-    <p>Learn more about me → <a href="https://jaymehoffman.com/about/">jaymehoffman.com/about</a><br>Follow me on Twitter → <a href="https://twitter.com/jaymehoffman">@jaymehoffman</a></p>
+    <h3 class="intro-heading">I'm an entrepreneur, product advisor and breakfast taco fanatic based in Nashville, Tennessee.</h3>
+    <p>Learn more about me → <a href="https://jaymehoffman.com/about/">jaymehoffman.com/about</a><br>
+      Follow me on Twitter → <a href="https://twitter.com/jaymehoffman">@jaymehoffman</a></br>
+      See my product stack → <a href="https://yourstack.com/@jaymehoffman">yourstacks.com/@jaymehoffman</a>
+    </p>
     <h1 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1>
     <ul class="post-list">
       {%- for post in site.posts limit:3 -%}
