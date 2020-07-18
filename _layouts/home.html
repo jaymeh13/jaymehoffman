@@ -10,14 +10,13 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h1 class="post-list-heading">Hi, I'm Jayme Hoffman.</h1>
+  <h1 class="post-list-heading">Hi, I'm Jayme Hoffman.</h1>
     <h3 class="intro-heading">I'm an entrepreneur, product advisor and breakfast taco fanatic based in Nashville.</h3>
-    <ul>
-      <li><a href="https://jaymehoffman.com/about/">Learn more about me →</a></li>
-      <li><a href="https://twitter.com/jaymehoffman">Follow me on Twitter → </a></li>
-      <li><a href="https://yourstack.com/@jaymehoffman">See my product stack → </a></li>
-    </ul>
-    <h1 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1>
+    <p><a href="https://jaymehoffman.com/about/">Learn more about me →</a></p>
+    <p><a href="https://twitter.com/jaymehoffman">Follow me on Twitter → </a></p>
+    <p><a href="https://yourstack.com/@jaymehoffman">See my product stack → </a></p>
+    
+  <h1 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1>
     <ul class="post-list">
       {%- for post in site.posts limit:3 -%}
       <li>
