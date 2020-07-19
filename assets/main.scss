@@ -284,6 +284,18 @@ a.post-link-all:hover {
   vertical-align: baseline; }
 
 /**
+ * Home Intro Section
+ */
+a.intro-link-all {
+  color: rgba(0, 0, 0, 0.6);
+  text-transform: capitalize;
+}
+
+a.intro-link-all:hover {
+  text-decoration: underline;
+}
+
+/**
 * Twitter feed
 */
 .tweets {
