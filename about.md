@@ -7,13 +7,13 @@ layout: page
 
 ### Now
 
-* Working on a new company.
+* Working on a new company 🛠️
 
-### Work
-
-* 2020 - Advisor/Investor
+* Advising/Investing
 
   * [Foh&boh](https://fohandboh.com/) - Vertical labor marketplace for the hospitality industry.
+
+  * [Golden Ratio](https://drinkgoldenratio.com/) - Golden Coffee. Drinks like tea, kicks like coffee.
 
   * [NashvilleTornadoHelp.org](http://nashvilletornadohelp.org/) - tornado relief non-profit.
 
@@ -21,9 +21,9 @@ layout: page
 
   * [StudioNow](http://studionow.com/) - World's largest video production marketplace.
 
-  * [Golden Ratio](https://drinkgoldenratio.com/) - Golden Coffee. Drinks like tea, kicks like coffee.
-
   * Vest - Stealth consumer investing app.
+
+### Past Work
 
 * May 2018 - [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
