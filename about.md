@@ -5,9 +5,9 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-### Now
+### What I'm working on now?
 
-* Working on a new company 🛠️
+* Building the future of relocation 👉 [Newzip.com](https://www.newzip.com/)
 
 * Advising/Investing
 
@@ -23,7 +23,7 @@ layout: page
 
   * Vest - Stealth consumer investing app.
 
-### Past Work
+### Products I help ship 🚢
 
 * May 2018 - [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
