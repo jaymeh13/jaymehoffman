@@ -7,7 +7,7 @@ layout: page
 
 ### What I'm working on now?
 
-* Building the future of relocation 👉 [Newzip.com](https://www.newzip.com/)
+* Building the future of relocation 👉 [Newzip](https://www.newzip.com/)
 
 * Advising/Investing
 
