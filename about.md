@@ -25,7 +25,7 @@ layout: page
 
 ### Products I help build:
 
-* May 2018 - [Consumer Product](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
+* May 2018 - [Consumer PM](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
   * [KW App](https://apps.apple.com/us/app/kw-buy-sell-real-estate/id652512924)
 
