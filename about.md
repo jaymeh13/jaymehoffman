@@ -33,7 +33,7 @@ layout: page
 
   * KW Homeownership
 
-  * KW Guide / Guide Builder (Transaction platform)
+  * KW Guide \+ Guide Builder (end-to-end transaction platform)
 
   * Agent Sites
 
