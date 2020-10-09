@@ -23,7 +23,7 @@ layout: page
 
   * Vest - Stealth consumer investing app.
 
-### Products I help build:
+### Products shipped 🚢
 
 * May 2018 - [Consumer PM](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
