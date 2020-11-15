@@ -9,7 +9,8 @@ layout: page
 
 * Building the future of relocation 👉 [Newzip](https://www.newzip.com/)
 
-* Advising/Investing
+
+### Advising/Investing
 
   * [Foh&boh](https://fohandboh.com/) - Vertical labor marketplace for the hospitality industry.
 
