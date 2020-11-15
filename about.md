@@ -7,23 +7,25 @@ layout: page
 
 ### What I'm working on now?
 
-* Building the future of relocation 👉 [Newzip](https://www.newzip.com/)
-
-### Advising/Investing
-
-* [Foh&boh](https://fohandboh.com/) - Vertical labor marketplace for the hospitality industry.
-
-* [Golden Ratio](https://drinkgoldenratio.com/) - Golden Coffee. Drinks like tea, kicks like coffee.
-
-* [NashvilleTornadoHelp.org](http://nashvilletornadohelp.org/) - tornado relief non-profit.
-
-* [Powerbuy](https://apps.shopify.com/powerbuy) - Social Shopping as a Service.
-
-* [StudioNow](http://studionow.com/) - World's largest video production marketplace.
-
-* Vest - Stealth consumer investing app.
+* Multi-sided marketplace for relocating to a new city 👉 [Newzip](https://www.newzip.com/)
 
 ### Products shipped 🚢
+
+* Feb 2020 - Product Advisor, [StudioNow](http://studionow.com/)
+
+  * Video production labor marketplace
+
+  * SN Producer profiles/discovery
+
+
+* Jan 2020 - Product Advisor, [Foh&boh](http://fohandboh.com/)
+
+  * Hospitality labor marketplace
+
+  * Hospitality employer search
+
+  * Hospitality job board/posts
+
 
 * May 2018 - [Consumer PM](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
 
