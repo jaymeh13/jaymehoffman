@@ -9,20 +9,19 @@ layout: page
 
 * Building the future of relocation 👉 [Newzip](https://www.newzip.com/)
 
-
 ### Advising/Investing
 
-  * [Foh&boh](https://fohandboh.com/) - Vertical labor marketplace for the hospitality industry.
+* [Foh&boh](https://fohandboh.com/) - Vertical labor marketplace for the hospitality industry.
 
-  * [Golden Ratio](https://drinkgoldenratio.com/) - Golden Coffee. Drinks like tea, kicks like coffee.
+* [Golden Ratio](https://drinkgoldenratio.com/) - Golden Coffee. Drinks like tea, kicks like coffee.
 
-  * [NashvilleTornadoHelp.org](http://nashvilletornadohelp.org/) - tornado relief non-profit.
+* [NashvilleTornadoHelp.org](http://nashvilletornadohelp.org/) - tornado relief non-profit.
 
-  * [Powerbuy](https://apps.shopify.com/powerbuy) - Social Shopping as a Service.
+* [Powerbuy](https://apps.shopify.com/powerbuy) - Social Shopping as a Service.
 
-  * [StudioNow](http://studionow.com/) - World's largest video production marketplace.
+* [StudioNow](http://studionow.com/) - World's largest video production marketplace.
 
-  * Vest - Stealth consumer investing app.
+* Vest - Stealth consumer investing app.
 
 ### Products shipped 🚢
 
