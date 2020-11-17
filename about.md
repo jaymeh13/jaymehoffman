@@ -7,7 +7,7 @@ layout: page
 
 ### What I'm working on now?
 
-* Multi-sided marketplace for moving to a new city 👉 [Newzip](https://www.newzip.com/)
+* Multi-sided marketplace for moving to a new city 👉 [NewZip](https://www.newzip.com/)
 
 ### Products shipped 🚢
 
