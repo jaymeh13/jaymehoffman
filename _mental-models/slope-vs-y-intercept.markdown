@@ -35,7 +35,7 @@ Knowing this helps you understand how fast you move and learn is more important 
 
   * "What's you number one piece of hiring advice? - Hire for slope, not Y-intercept. This is actually my number one piece of life advice.
 
-* Deciding to Go Big with David Hsu of Retool (podcast)
+* [Deciding to Go Big with David Hsu of Retool (podcast)](https://open.spotify.com/episode/1mkcBxJX1QmxbKCUcgx9Hf?si=EkcmgivSRVOLImbCAsJPAw)
 
   * How to evaluate a startup @ 4:00
 
