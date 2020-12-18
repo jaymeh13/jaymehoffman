@@ -1,7 +1,7 @@
 ---
 title: Slope vs. Y-Intercept
 date: 2020-12-18 16:16:00 Z
-permalink: "/mental-models/slope-is-greater-than-y-intercept"
+permalink: "/mental-models/slope-vs-y-intercept"
 tags:
 - mental-model
 - slope vs y-intercept
