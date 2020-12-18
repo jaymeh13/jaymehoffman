@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-"It’s not the y-intercept that matters. It’s really the slope that matters." - [David Hsu](https://twitter.com/dvdhsu)
+*"It’s not the y-intercept that matters. It’s really the slope that matters." - [David Hsu](https://twitter.com/dvdhsu)*
 
 Your slope in whatever you're doing in life is more important than your y-intercept.
 
@@ -28,8 +28,7 @@ Knowing this helps you understand how fast you move and learn is more important 
 > \
 > [01/13/2012. From a lecture by Professor John Ousterhout at Stanford, class CS140](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
 
-
-### More Slope vs. Y-Intercept
+### More Slope vs. Y-Intercept Links
 
 * From [Sam Altman](https://twitter.com/sama/status/792823320441786368)
 
