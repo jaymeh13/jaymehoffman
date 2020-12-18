@@ -10,7 +10,9 @@ layout: post
 
 "It’s not the y-intercept that matters. It’s really the slope that matters." - [David Hsu](https://twitter.com/dvdhsu)
 
-Knowing that your Slope is more important your Y-Intercept helps you understand how fast you move and learn is more important than where you begin.
+Your slope in whatever you're doing in life is more important than your y-intercept.
+
+Knowing this helps you understand how fast you move and learn is more important than where you begin.
 
 ![slope_vs_y-intercept.png](/uploads/slope_vs_y-intercept.png)
 
