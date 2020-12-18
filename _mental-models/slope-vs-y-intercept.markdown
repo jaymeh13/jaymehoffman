@@ -8,9 +8,9 @@ tags:
 layout: post
 ---
 
-It’s not the Y-Intercept that matters. It’s the Slope that matters.
+"It’s not the y-intercept that matters. It’s really the slope that matters." - [David Hsu](https://twitter.com/dvdhsu)
 
-Knowing that your Slope is more important your Y-Intercept helps you understand that how fast you move and learn is more important than where you begin.
+Knowing that your Slope is more important your Y-Intercept helps you understand how fast you move and learn is more important than where you begin.
 
 ![slope_vs_y-intercept.png](/uploads/slope_vs_y-intercept.png)
 
@@ -22,18 +22,25 @@ Knowing that your Slope is more important your Y-Intercept helps you understand 
 >
 > So in a mathematical sense it's kind of obvious. But I didn't really mean in a mathematical sense, I think this is a pretty good guideline for life also. What I mean is that how fast you learn is a lot more important than how much you know to begin with. So in general I say that people emphasize too much how much they know and not how fast they're learning...
 >
->
 > So I think this is a really interesting concept you can apply in a lot of different ways. And the key thing here I think is that slow and steady is great. You don't have to do anything heroic. You know the difference in slopes doesn't have to be that great if you just every day think about learning a little bit more and getting a little bit better, lots of small steps, its amazing how quickly you can catch up and become a real expert in the field.\
 > \
 > [01/13/2012. From a lecture by Professor John Ousterhout at Stanford, class CS140](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
 
-### From [Sam Altman](https://twitter.com/sama/status/792823320441786368)
-
-"What's you number one piece of hiring advice?" \
-\
-"Hire for slope, not Y-intercept. This is actually my number one piece of life advice."\\
+### 
 
 ### More Slope vs. Y-Intercept
+
+* From [Sam Altman](https://twitter.com/sama/status/792823320441786368)
+
+  * "What's you number one piece of hiring advice? - Hire for slope, not Y-intercept. This is actually my number one piece of life advice.
+
+* Deciding to Go Big with David Hsu of Retool (podcast)
+
+  * How to evaluate a startup @ 4:00
+
+  * CA: Look at where they are now. Ask them about their goals and what they’re working on and check back in a month or two to see how much the progressed with their product and how many customer they found. Just kinda want to look at their progress.
+
+  * DH: It’s not the y-intercept that matters. It’s really the slope that matters.
 
 * [“A little bit of slope makes up for a lot of y-intercept” on HN](https://news.ycombinator.com/item?id=8055868)
 
