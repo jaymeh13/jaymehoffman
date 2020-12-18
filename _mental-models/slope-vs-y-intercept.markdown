@@ -28,7 +28,6 @@ Knowing this helps you understand how fast you move and learn is more important 
 > \
 > [01/13/2012. From a lecture by Professor John Ousterhout at Stanford, class CS140](https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185)
 
-### 
 
 ### More Slope vs. Y-Intercept
 
