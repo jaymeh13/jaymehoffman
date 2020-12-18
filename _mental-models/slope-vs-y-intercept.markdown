@@ -47,3 +47,11 @@ Knowing this helps you understand how fast you move and learn is more important 
 * [“A little bit of slope makes up for a lot of y-intercept” on HN](https://news.ycombinator.com/item?id=8055868)
 
   * Good points. I would add to his last point though that hiring at least one person with a high y-intercept can increase the slope of your other hires significantly. (It's a lot easier to learn something quickly if you have someone around who already knows a lot about it.) And people who both know a lot and learn quickly are expensive and rare, so I expect the optimal hiring process would look for a large percentage of relatively inexperienced fast learners, along with a small (but non-zero) percentage of more experienced people, even if they aren't likely to develop as quickly. (Perhaps consultants would fit well in that role too.) - [tempestn](https://news.ycombinator.com/item?id=8056031)
+
+* [Bring Keng on Slope vs Y-Intercept](https://briankeng.com/2015/07/a-little-bit-of-slope/)
+
+  * The basic idea is you want to be the red line and not the blue line.  From one of his lectures (emphasis mine)
+
+  * I’m sure this isn’t the first time you’ve heard something along the lines of “be a lifelong learner” or “learn something new everyday”. There are so many variations on this cliche that it’s not really that interesting anymore but that doesn’t mean it’s not good advice.
+
+  * Focusing on “slope” is hard though. Sometimes it’s a [grind](http://www.briankeng.com/2012/03/the-grind/). But that’s not unlike most things in life. The people who can “grind” away and focus on the “slope” are ultimately the ones who are setting themselves up for success. Definitely not sexy (it is math after all), definitely not romantic, just the reality.
