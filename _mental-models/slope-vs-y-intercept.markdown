@@ -1,5 +1,5 @@
 ---
-title: Slope vs. Y-Intercept
+title: Slope vs Y-Intercept
 date: 2020-12-18 16:16:00 Z
 permalink: "/mental-models/slope-vs-y-intercept"
 tags:
