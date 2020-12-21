@@ -55,3 +55,7 @@ Knowing this helps you understand how fast you move and learn is more important 
   * I’m sure this isn’t the first time you’ve heard something along the lines of “be a lifelong learner” or “learn something new everyday”. There are so many variations on this cliche that it’s not really that interesting anymore but that doesn’t mean it’s not good advice.
 
   * Focusing on “slope” is hard though. Sometimes it’s a [grind](http://www.briankeng.com/2012/03/the-grind/). But that’s not unlike most things in life. The people who can “grind” away and focus on the “slope” are ultimately the ones who are setting themselves up for success. Definitely not sexy (it is math after all), definitely not romantic, just the reality.
+
+* [JD Ross on Keith Rabois betting](https://twitter.com/justindross/status/1341071224995274753)
+
+  * Many people talk about betting on a person's growth rate vs experience. Keith actually hires and invests this way.
