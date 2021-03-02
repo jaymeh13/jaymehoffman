@@ -10,6 +10,9 @@ layout: page
 * Working on something new for local experts  👉 [Newzip ](https://www.newzip.com/)(YC W21)
 
 ### Products shipped 🚢
+* Dec 2020 - Founding Advisor, 
+
+  * Stealth labor marketplace
 
 * Feb 2020 - Product Advisor, [StudioNow](http://studionow.com/)
 
@@ -18,7 +21,7 @@ layout: page
   * SN Producer profiles/discovery
 
 
-* Jan 2020 - Product Advisor, [Foh&boh](http://fohandboh.com/)
+* Jan 2020 - Founding Advisor, [Foh&boh](http://fohandboh.com/)
 
   * Hospitality labor marketplace
 
