@@ -10,9 +10,9 @@ layout: page
 * Working on something new for local experts  👉 [Newzip ](https://www.newzip.com/)(YC W21)
 
 ### Products shipped 🚢
-* Dec 2020 - Founding Advisor, 
+* Dec 2020 - Founding Advisor, Stealth 😎
 
-  * Stealth labor marketplace
+  * X-industry labor marketplace
 
 * Feb 2020 - Product Advisor, [StudioNow](http://studionow.com/)
 
