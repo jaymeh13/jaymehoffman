@@ -7,8 +7,6 @@ layout: page
 
 Hi, I'm Jayme Hoffman. I'm the founder and CEO of Newzip, a marketplace for neighborhood advice. I work on the internet and have a base in Nashville with my wife, Kate, and our two kids, Henry and Heidi. I'm passionate about serving our customers, building beautiful products, thinking with mental models and eating breakfast tacos.
 
-You can reach out via:
-
 * [twitter](https://twitter.com/jaymehoffman)
 
 * [medium](https://medium.com/@jaymehoffman)
