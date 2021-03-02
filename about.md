@@ -7,7 +7,7 @@ layout: page
 
 ### What I'm working on now?
 
-* Working on something new for local experts  👉 [NewZip ](https://www.newzip.com/)(YC W21)
+* Working on something new for local experts  👉 [Newzip ](https://www.newzip.com/)(YC W21)
 
 ### Products shipped 🚢
 
