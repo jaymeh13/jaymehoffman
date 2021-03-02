@@ -5,6 +5,17 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
+Hi, I'm Jayme Hoffman. I'm the founder and CEO of Newzip, a marketplace for neighborhood advice. I work on the internet and have a base in Nashville with my wife, Kate, and our two kids, Henry and Heidi. I'm passionate about serving our customers, building beautiful products, thinking with mental models and eating breakfast tacos.
+
+You can reach out via:
+
+* [twitter](https://twitter.com/jaymehoffman)
+
+* [medium](https://medium.com/@jaymehoffman)
+
+* [linkedin](https://www.linkedin.com/in/jaymehoffman/)
+
+
 ### What I'm working on now?
 
 * Working on something new for local experts  👉 [Newzip ](https://www.newzip.com/)(YC W21)
@@ -69,13 +80,3 @@ layout: page
   * Kiwi - short square mobile videos
 
   * Wax 1.0 - tony hawk IRL video competitions
-
-### Contact
-
-* [twitter](https://twitter.com/jaymehoffman)
-
-* [medium](https://medium.com/@jaymehoffman)
-
-* [linkedin](https://www.linkedin.com/in/jaymehoffman/)
-
-* [email](mailto:Jayme(at)jaymehoffman.com)
