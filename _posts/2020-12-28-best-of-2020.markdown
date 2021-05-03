@@ -5,54 +5,82 @@ permalink: best-of-2020
 layout: post
 ---
 
-# Personal
+## Personal
 
-- Humility is not thinking less of yourself, but thinking of yourself less,” What he said instead is more powerful: *Do not imagine that if you meet a really humble man he will be what most people call ‘humble’ nowadays: he will not be a sort of greasy, smarmy person, who is always telling you that, of course, he is nobody. Probably all you will think about him is that he seemed a cheerful, intelligent chap who took a real interest in what you said to him. If you do dislike him it will be because you feel a little envious of anyone who seems to enjoy life so easily. He will not be thinking about humility: he will not be thinking about himself at all. If anyone would like to acquire humility, I can, I think, tell him the first step. The first step is to realise that one is proud. And a biggish step, too. At least, nothing whatever can be done before it. If you think you are not conceited, it means you are very conceited indeed.* For Lewis, the truly humble man “will not be thinking about humility: he will not be thinking about himself at all.” And the only way to begin to grasp this is by admitting first that you think of yourself more highly than you ought, for “if you think you are not conceited, you are very conceited indeed.”
-[What CS Lewis wrote is more powerful than what he didn’t](https://bloggingtheologically.com/2015/12/11/what-cs-lewis-wrote-is-better-than-what-he-didnt/)
-- Robustness Principle: Be conservative in what you do, be liberal in what you accept from others. It’s a design guideline for software and a good rule for life: Hold yourself to a higher standard than you hold others to.
-- Howard Stern: “I thought (to myself), you know, it is possible to will yourself, maybe not to be the greatest in the world but to certainly get what you want.” 
-Jerry Seinfeld: “I’m going to adjust your perspective a little bit. That was no will. What you were using, what Michael Jordan uses and what I use, is not will. It’s love. When you love something, it’s a bottomless pool of energy. That’s where the energy comes from. But you have to love it sincerely. Not because you’re going to make money from it, be famous, or get whatever you want to get. When you do it because you love it, then you can find yourself moving up and getting really good at something you wanted to be really good at. Will is like not eating dessert or something that’s just forcing yourself. You can’t force yourself to be what you have made yourself into. You can love it. Love is endless. Will is finite.” - [Jerry Seinfeld on Will vs. Love](https://twitter.com/BrendanFitzTV/status/1263998531188035584)
-- The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who knows the great enthusiasms, the great devotions, and spends himself in a worthy cause; who at best, if he wins, knows the thrills of high achievement, and, if he fails, at least fails daring greatly, so that his place shall never be with those cold and timid souls who know neither victory or defeat. — Theodore via Bob Iger
-- All things come to him who hustle while he waits. - Edison
+* Humility is not thinking less of yourself, but thinking of yourself less,” What he said instead is more powerful: *Do not imagine that if you meet a really humble man he will be what most people call ‘humble’ nowadays: he will not be a sort of greasy, smarmy person, who is always telling you that, of course, he is nobody. Probably all you will think about him is that he seemed a cheerful, intelligent chap who took a real interest in what you said to him. If you do dislike him it will be because you feel a little envious of anyone who seems to enjoy life so easily. He will not be thinking about humility: he will not be thinking about himself at all. If anyone would like to acquire humility, I can, I think, tell him the first step. The first step is to realise that one is proud. And a biggish step, too. At least, nothing whatever can be done before it. If you think you are not conceited, it means you are very conceited indeed.* For Lewis, the truly humble man “will not be thinking about humility: he will not be thinking about himself at all.” And the only way to begin to grasp this is by admitting first that you think of yourself more highly than you ought, for “if you think you are not conceited, you are very conceited indeed.”
+  [What CS Lewis wrote is more powerful than what he didn’t](https://bloggingtheologically.com/2015/12/11/what-cs-lewis-wrote-is-better-than-what-he-didnt/)
 
-# Business
+* Robustness Principle: Be conservative in what you do, be liberal in what you accept from others. It’s a design guideline for software and a good rule for life: Hold yourself to a higher standard than you hold others to.
+
+* Howard Stern: “I thought (to myself), you know, it is possible to will yourself, maybe not to be the greatest in the world but to certainly get what you want.”
+  Jerry Seinfeld: “I’m going to adjust your perspective a little bit. That was no will. What you were using, what Michael Jordan uses and what I use, is not will. It’s love. When you love something, it’s a bottomless pool of energy. That’s where the energy comes from. But you have to love it sincerely. Not because you’re going to make money from it, be famous, or get whatever you want to get. When you do it because you love it, then you can find yourself moving up and getting really good at something you wanted to be really good at. Will is like not eating dessert or something that’s just forcing yourself. You can’t force yourself to be what you have made yourself into. You can love it. Love is endless. Will is finite.” - [Jerry Seinfeld on Will vs. Love](https://twitter.com/BrendanFitzTV/status/1263998531188035584)
+
+* The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who knows the great enthusiasms, the great devotions, and spends himself in a worthy cause; who at best, if he wins, knows the thrills of high achievement, and, if he fails, at least fails daring greatly, so that his place shall never be with those cold and timid souls who know neither victory or defeat. — Theodore via Bob Iger
+
+* All things come to him who hustle while he waits. - Edison
+
+## Business
 
 ### Team/Leadership
 
-- My job is to make sure everyone is sharing the same vision - Jon Favreau
-- “One way to keep momentum going is to have constantly greater goals.” — Michael Korda
-- The goal of an entrepreneur should be to do nothing but route opportunities to the right people on your team. Build a system and make yourself a human router. When I get stressed at work, it’s because I’ve failed to build a system and have tasks I can’t route to someone. [Awilkinson](https://twitter.com/awilkinson/status/1317853889777922048).
-- “Focus on opportunities not setbacks. Focus on what you can do, not what you can’t. Focus on the present moment, not the past or the future. Empower yourself!” ― Akiroq Brost
-- “What’s the one thing I could do, such that by doing it, everything else will be either easier or unnecessary” - GK
-- “All business activity really comes down to two simple things: Making decisions and executing on decisions. Your success depends on your ability to develop speed as a habit in both.” - [Turner tweets](https://twitter.com/TurnerNovak/status/1339570358878429193)
-- Good vs Bad (same problem each week vs new problem each week) - PG
-- A couple days ago I finally got being a good startup founder down to two words: relentlessly resourceful. [PG](http://www.paulgraham.com/relres.html)
-- Failure doesn’t have to be an option. Every problem is a leadership problem. - Rabois
+* My job is to make sure everyone is sharing the same vision - Jon Favreau
+
+* “One way to keep momentum going is to have constantly greater goals.” — Michael Korda
+
+* The goal of an entrepreneur should be to do nothing but route opportunities to the right people on your team. Build a system and make yourself a human router. When I get stressed at work, it’s because I’ve failed to build a system and have tasks I can’t route to someone. [Awilkinson](https://twitter.com/awilkinson/status/1317853889777922048).
+
+* “Focus on opportunities not setbacks. Focus on what you can do, not what you can’t. Focus on the present moment, not the past or the future. Empower yourself!” ― Akiroq Brost
+
+* “What’s the one thing I could do, such that by doing it, everything else will be either easier or unnecessary” - GK
+
+* “All business activity really comes down to two simple things: Making decisions and executing on decisions. Your success depends on your ability to develop speed as a habit in both.” - [Turner tweets](https://twitter.com/TurnerNovak/status/1339570358878429193)
+
+* Good vs Bad (same problem each week vs new problem each week) - PG
+
+* A couple days ago I finally got being a good startup founder down to two words: relentlessly resourceful. [PG](http://www.paulgraham.com/relres.html)
+
+* Failure doesn’t have to be an option. Every problem is a leadership problem. - Rabois
 
 ### Market
 
-- Build for yourself. Build for your close friends and family. Build for your community. The further you move away from your sphere of understating the harder it is to deliver what the customer wants. Don’t delude yourself in building for people you don’t understand. Norgard
-- Work for your customer not your company. [Norgard](https://twitter.com/briannorgard/status/1228031372033347584?s=21)
-- The very best businesses often find a way to leverage someone else’s capital, which removes the need to borrow money — “The best business is a royalty on the growth of others, requiring little capital itself.” – Warren Buffett
-- “In tech and digital businesses there is no focus that’s too narrow to begin.” 2 - Observe the world and find activities that are already happening but are not yet smoothed over by efficient vertical software. [Invest like the best](https://open.spotify.com/episode/46Yi7ta1rI9vVaGRJVA0UK?context=spotify%3Acollection%3Apodcasts%3Aepisodes&si=DhxeDEPqTy6oCccI61EK_g).
+* Build for yourself. Build for your close friends and family. Build for your community. The further you move away from your sphere of understating the harder it is to deliver what the customer wants. Don’t delude yourself in building for people you don’t understand. Norgard
+
+* Work for your customer not your company. [Norgard](https://twitter.com/briannorgard/status/1228031372033347584?s=21)
+
+* The very best businesses often find a way to leverage someone else’s capital, which removes the need to borrow money — “The best business is a royalty on the growth of others, requiring little capital itself.” – Warren Buffett
+
+* “In tech and digital businesses there is no focus that’s too narrow to begin.” 2 - Observe the world and find activities that are already happening but are not yet smoothed over by efficient vertical software. [Invest like the best](https://open.spotify.com/episode/46Yi7ta1rI9vVaGRJVA0UK?context=spotify%3Acollection%3Apodcasts%3Aepisodes&si=DhxeDEPqTy6oCccI61EK_g).
 
 ### Product
 
-- So what I tell to people is this: if you’re going to sell something, don’t really be in the selling business. You don’t want to be in the selling business. It’s one of the big secrets I give everybody. Whether it’s a service you’re selling or a product you’re selling, whether you work for yourself or somebody else, don’t be in the selling business. Be in the reorder business. In other words, your service is so good or your product is so good that whoever you sold it to is going to order it and reorder it again, or tell somebody, if it’s a one-time product, how great that product or that service was. - [John Paul](https://tim.blog/2020/06/20/john-paul-dejoria-transcript/)
-- My long experience had taught me that preventative measure were not popular. *People will do anything to cure a trouble, but little to prevent it.* Countless advertising ideas have been wrecked by not understand that phase go human nature. Prevention offers slight appeal to humanity in general. - My life in advertising
-- If your company: a.) Helps people make money (Airbnb, Lyft, Uber, Doordash, Instacart, Lambda School, etc.) or b.) Saves people time or money (Stripe, Zapier, Upwork, Honey, Faire, etc.) ...and it actually works, it's very hard to not build a massive company. [Link](https://twitter.com/chrisjbakke/status/1274124708682903552?s=21)
-- If you can get people to take your price advantage for granted, you’ve won. If on the other hand, your brand becomes more identified with saving money, then that’s likely because your offering isn’t sufficiently differentiated. Saving money /is/ the feature. - [Tavel](https://medium.com/@sarahtavel/how-to-build-an-enduring-multi-billion-dollar-business-hint-create-a-10x-product-recast-3527df2b8fcb)
-- “You should rarely think about competitors, because competitors (by your definition) are rarely who you are truly competing with. Most products are competing with alternatives.” [Brian Balfour](https://brianbalfour.com/quick-takes/alternatives-not-competitors)
-- Participatory design — We have to stay *really* close to our users. We call it participatory design. We talk to hundreds of users on WeChat constantly. We have daily conversations. Not only about product, but also to understand what they think and what they like in pop culture. *We need to be immersed into the American teen culture.*We always share our wireframes with these users before we do any coding. - [Alex Zhu](https://blakeir.com/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b)
-- Forecasts are worthless because everybody gets them wrong, no matter how much data you have. Everything great is built by compound interest: No silver bullet features Identify and amplify what product features make up your MOAT - [chamath](https://twitter.com/chrishlad/status/1316782956690767874?s=20)
-- “Most companies worry about what users want or what they need. But we don’t worry about that at all. We obsess about how users /feel/. We make users feel is just as important as what we make. And what we actually make is joy, in software form,” [Vohra said](https://wfh.substack.com/p/how-superhuman-uses-video-game-design).
-- Our success depends on pleasing people. By an inexpensive test, we can learn if we please them or not... That is about the only way to advertising success. Perhaps one time in fifty, a guess may be right. But fifty times in fifty an actual test tells you what to avoid. - Claude Hopkins
-- If we don’t make the stuff, there will be no stuff. - [Musk](https://twitter.com/DavidSacks/status/1260669198402859008)
+* So what I tell to people is this: if you’re going to sell something, don’t really be in the selling business. You don’t want to be in the selling business. It’s one of the big secrets I give everybody. Whether it’s a service you’re selling or a product you’re selling, whether you work for yourself or somebody else, don’t be in the selling business. Be in the reorder business. In other words, your service is so good or your product is so good that whoever you sold it to is going to order it and reorder it again, or tell somebody, if it’s a one-time product, how great that product or that service was. - [John Paul](https://tim.blog/2020/06/20/john-paul-dejoria-transcript/)
+
+* My long experience had taught me that preventative measure were not popular. *People will do anything to cure a trouble, but little to prevent it.* Countless advertising ideas have been wrecked by not understand that phase go human nature. Prevention offers slight appeal to humanity in general. - My life in advertising
+
+* If your company: a.) Helps people make money (Airbnb, Lyft, Uber, Doordash, Instacart, Lambda School, etc.) or b.) Saves people time or money (Stripe, Zapier, Upwork, Honey, Faire, etc.) ...and it actually works, it's very hard to not build a massive company. [Link](https://twitter.com/chrisjbakke/status/1274124708682903552?s=21)
+
+* If you can get people to take your price advantage for granted, you’ve won. If on the other hand, your brand becomes more identified with saving money, then that’s likely because your offering isn’t sufficiently differentiated. Saving money /is/ the feature. - [Tavel](https://medium.com/@sarahtavel/how-to-build-an-enduring-multi-billion-dollar-business-hint-create-a-10x-product-recast-3527df2b8fcb)
+
+* “You should rarely think about competitors, because competitors (by your definition) are rarely who you are truly competing with. Most products are competing with alternatives.” [Brian Balfour](https://brianbalfour.com/quick-takes/alternatives-not-competitors)
+
+* Participatory design — We have to stay *really* close to our users. We call it participatory design. We talk to hundreds of users on WeChat constantly. We have daily conversations. Not only about product, but also to understand what they think and what they like in pop culture. \*We need to be immersed into the American teen culture.\*We always share our wireframes with these users before we do any coding. - [Alex Zhu](https://blakeir.com/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b)
+
+* Forecasts are worthless because everybody gets them wrong, no matter how much data you have. Everything great is built by compound interest: No silver bullet features Identify and amplify what product features make up your MOAT - [chamath](https://twitter.com/chrishlad/status/1316782956690767874?s=20)
+
+* “Most companies worry about what users want or what they need. But we don’t worry about that at all. We obsess about how users /feel/. We make users feel is just as important as what we make. And what we actually make is joy, in software form,” [Vohra said](https://wfh.substack.com/p/how-superhuman-uses-video-game-design).
+
+* Our success depends on pleasing people. By an inexpensive test, we can learn if we please them or not... That is about the only way to advertising success. Perhaps one time in fifty, a guess may be right. But fifty times in fifty an actual test tells you what to avoid. - Claude Hopkins
+
+* If we don’t make the stuff, there will be no stuff. - [Musk](https://twitter.com/DavidSacks/status/1260669198402859008)
 
 ### Marketplaces / Networks
 
-- Everything I’ve learned about business in the past 20 years boils down to this, at least for marketplaces, supply brings demand. *Supply generates demand. It’s a law of business.* So that created this flywheel effect where the actual supply was offering stuff and they were posting it saying, “Hey, I’m offering this on Fiverr.” And then people came in and said: “This is it. Oh my God, this is what I got for $5 on Fiverr.” Then this flywheel effect went super fast and it grew organically at the beginning. - [NFX](https://twitter.com/jaymehoffman/status/1339960829496729600)
-- High frequency can be low margin but low frequency must be high margin. - Jeff Jordan
-- Lightweight — If you *want to build a new user-generated content platform or social network then the content has to be **extremely** light. The content creation AND consumption need to happen within seconds, not minutes.* - [Alex Zhu](https://blakeir.com/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b)
-- Great products make markets more liquid. iTunes and music/movies. They expand the market. They make it easier for two parties to connect in faster, more trustworthy and less sketchy ways. - Sarah Tavel (I think)
-- “User-generated content models are magic because the more reviews you have of hotels, for instance, the more it attracts users to the site. And the more users you have the more reviews you get. This is a very simple, elegant example of a positive feedback system.” - Rich Barton
+* Everything I’ve learned about business in the past 20 years boils down to this, at least for marketplaces, supply brings demand. *Supply generates demand. It’s a law of business.* So that created this flywheel effect where the actual supply was offering stuff and they were posting it saying, “Hey, I’m offering this on Fiverr.” And then people came in and said: “This is it. Oh my God, this is what I got for $5 on Fiverr.” Then this flywheel effect went super fast and it grew organically at the beginning. - [NFX](https://twitter.com/jaymehoffman/status/1339960829496729600)
+
+* High frequency can be low margin but low frequency must be high margin. - Jeff Jordan
+
+* Lightweight — If you *want to build a new user-generated content platform or social network then the content has to be **extremely** light. The content creation AND consumption need to happen within seconds, not minutes.* - [Alex Zhu](https://blakeir.com/Alex-Zhu-TikTok-4631f80fdcc4423a845e145e807d8e2b)
+
+* Great products make markets more liquid. iTunes and music/movies. They expand the market. They make it easier for two parties to connect in faster, more trustworthy and less sketchy ways. - Sarah Tavel (I think)
+
+* “User-generated content models are magic because the more reviews you have of hotels, for instance, the more it attracts users to the site. And the more users you have the more reviews you get. This is a very simple, elegant example of a positive feedback system.” - Rich Barton
