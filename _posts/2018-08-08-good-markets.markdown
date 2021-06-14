@@ -20,6 +20,8 @@ Arthur Rock, Fairchild Semiconductor: “Give me a giant market — always.”
 
 [Don Valentine, Sequoia Capital](https://youtu.be/nKN-abRJMEw): Target big markets - If you don’t attack a big market, it’s highly unlikely that you’re going to build a big company.
 
+[Alex Taussig](https://www.firehose.vc/p/firehose-193-mega-marketplaces-?utm_source=substack&utm_medium=email&utm_content=share): The qualitative differences between Mega’s and Steady’s are a bit murkier. At the risk of seeming reductionist, it might all come down to a market size measured in trillions, not billions.
+
 
 #### Good markets are growing. 
 
