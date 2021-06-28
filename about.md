@@ -21,11 +21,11 @@ Hi, I'm Jayme Hoffman. I'm the founder and CEO of [Newzip](http://newzip.com/), 
 
 * Jan 2021 - Founder & CEO, [Newzip](http://newzip.com/)
 
-  * Neighborhood advice marketplace
+  * Place short-video and live tours
 
   * Local creator monetization tools
 
-  * Place short-video and live tours
+  * Neighborhood advice marketplace
 
 
 * Dec 2020 - Founding Advisor, Stealth 😎
