@@ -1,6 +1,7 @@
 ---
 title: Consumer Product Reading List
 date: 2021-08-09 15:01:00 Z
+permalink: consumer-products
 layout: post
 ---
 
