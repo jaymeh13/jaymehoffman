@@ -1,6 +1,7 @@
 ---
 title: Consumer Product Reading List
 date: 2021-08-09 15:01:00 Z
+layout: post
 ---
 
 I love building consumer products and love reading, listening and watching everything I can get my hands on. Here's an ever-expanding list of my favorites that I often go back to.
