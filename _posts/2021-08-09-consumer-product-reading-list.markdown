@@ -5,7 +5,7 @@ permalink: consumer-product-links
 layout: post
 ---
 
-I love building consumer products and love reading, listening and watching everything I can get my hands on. Here's an ever-expanding list of my favorites that I often go back to.
+I love building consumer products and love reading, listening and watching everything I can get my hands on. Here's an ever-expanding list of my favorites.
 
 ## Posts
 
@@ -19,6 +19,6 @@ I love building consumer products and love reading, listening and watching every
 
 * [Bill Gurley - All Things Business and Investing on Invest Like the Best](https://www.joincolossus.com/episodes/12224182/gurley-all-things-business-and-investing?tab=mentionedcontent)
 
-* [Sarah Tavel - Consumer & Marketplace Investing on Invest Like the Best](https://www.joincolossus.com/episodes/19136319/tavel-consumer-marketplace-investing?tab=mentionedcontent) via Noah Elion 
+* [Sarah Tavel - Consumer & Marketplace Investing on Invest Like the Best](https://www.joincolossus.com/episodes/19136319/tavel-consumer-marketplace-investing?tab=mentionedcontent) via Noah Elion
 
-* [Jeremy Levine on 20VC](https://www.thetwentyminutevc.com/jeremy-levine-pinterest/) via Noah Elion 
+* [Jeremy Levine on 20VC](https://www.thetwentyminutevc.com/jeremy-levine-pinterest/) via Noah Elion
