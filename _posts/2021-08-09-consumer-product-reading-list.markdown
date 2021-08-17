@@ -22,3 +22,5 @@ I love building consumer products and love reading, listening and watching every
 * [Sarah Tavel - Consumer & Marketplace Investing on Invest Like the Best](https://www.joincolossus.com/episodes/19136319/tavel-consumer-marketplace-investing?tab=mentionedcontent) via Noah Elion
 
 * [Jeremy Levine on 20VC](https://www.thetwentyminutevc.com/jeremy-levine-pinterest/) via Noah Elion
+
+* [Michael Moritz: Look for Unexpected Opportunities](https://soundcloud.com/stanfordgsb/view-from-the-top-michael-moritz)
