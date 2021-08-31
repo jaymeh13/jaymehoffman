@@ -24,3 +24,5 @@ I love building consumer products and love reading, listening and watching every
 * [Jeremy Levine on 20VC](https://www.thetwentyminutevc.com/jeremy-levine-pinterest/) via Noah Elion
 
 * [Michael Moritz: Look for Unexpected Opportunities](https://soundcloud.com/stanfordgsb/view-from-the-top-michael-moritz)
+
+* [Amir Nathoo (Outschool) - Building a direct to family marketplace to help kids learn what they want to learn](https://www.theconsumervc.com/amir-nathoo-outschool-building-a-direct-to-family-marketplace-to-help-kids-learn-what-they-want-to-learn/) Via Adam Kearney
