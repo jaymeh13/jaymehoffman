@@ -50,7 +50,7 @@ Hi, I'm Jayme Hoffman. I'm the founder and CEO of [Newzip](http://newzip.com/), 
 
   * [KW App](https://apps.apple.com/us/app/kw-buy-sell-real-estate/id652512924)
 
-  * KW.com
+  * [KW.com](https://kw.com/)
 
   * Agent Sites - World's largest agent website creator
 
