@@ -15,22 +15,20 @@ Hi, I'm Jayme Hoffman. I'm the founder and CEO of [Newzip](http://newzip.com/), 
 
 ### What I'm working on now?
 
-* Working on something new for local experts  👉 [Newzip ](https://www.newzip.com/)(YC W21)
+* Working on something new  👉 [Newzip ](https://www.newzip.com/)(YC W21)
 
 ### Products shipped 🚢
 
 * Jan 2021 - Founder & CEO, [Newzip](http://newzip.com/)
 
-  * Places short-video and live tours
+  * Local creator marketplace and monetization tools
 
-  * Local creator monetization tools
-
-  * Neighborhood advice marketplace
+  * Location-based video and livestream tours
 
 
-* Dec 2020 - Founding Advisor, Stealth 😎
+* Dec 2020 - Founding Advisor, [Realput](https://www.realput.com/)
 
-  * X-industry labor marketplace
+  * World's first labor marketplace for real estate pros
 
 * Feb 2020 - Product Advisor, [StudioNow](http://studionow.com/)
 
@@ -54,11 +52,11 @@ Hi, I'm Jayme Hoffman. I'm the founder and CEO of [Newzip](http://newzip.com/), 
 
   * KW.com
 
+  * Agent Sites - World's largest agent website creator
+
+  * KW Guide \+ Guide Builder - End-to-end transaction platform
+
   * KW Homeownership
-
-  * KW Guide \+ Guide Builder (end-to-end transaction platform)
-
-  * Agent Sites
 
 * Aug. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by KW)
 
@@ -68,9 +66,9 @@ Hi, I'm Jayme Hoffman. I'm the founder and CEO of [Newzip](http://newzip.com/), 
 
 * Jan. 2015 - Head of Growth, [NC2 Media](http://nc2media.com/) (Lonely Planet Labs)
 
-  * Stealth game app
+  * Lottery 2.0
 
-  * Stealth video marketplace
+  * Marketplace for video production
 
 * June 2014 - CEO, [BuyHappy](https://angel.co/buyhappy)
 
