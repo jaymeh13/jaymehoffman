@@ -7,20 +7,28 @@ Here's a work-in-progress list of parent/family resources we use or plan on usin
 
 Draft: https://twitter.com/jaymehoffman/status/1470445241459224577
 
-## Education
+### Education
 
-* ABC Mouse 
+* ABC Mouse
 
-* Duo ABC 
+* Duo ABC
 
 * Wordplay
 
-* Plan on using
+* Plan on trying
 
-  * Outschool 
+  * Outschool
 
   * [Juni Learning](https://twitter.com/jaymehoffman/status/1478121638440878089)
 
   * Ender
 
   * [Koala ](https://www.teachwithkoala.com/)- Shopify/Metaverse for online tutors
+
+### Finance
+
+* Fidelity 529
+
+* Plan on trying
+
+  * [GoHenry](https://www.gohenry.com/us/) or [Greenlight](https://www.greenlight.com/)
