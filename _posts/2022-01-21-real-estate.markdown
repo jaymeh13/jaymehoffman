@@ -31,7 +31,7 @@ Outsiders always complain about real estate commissions because they think it's 
 
    2. A good local "veteran" buyer's agent knows about the houses coming soon and can work their network to get you in the door. 
 
-## How you should buy a house
+## How you should buy a house?
 
 1. **Path 1 - Hustle off-market **\
    Finding a house off-market, meaning not on MLS (Zillow/Redfin), is the only way to get the exact location you want and avoid a bidding war. 
@@ -63,7 +63,7 @@ Outsiders always complain about real estate commissions because they think it's 
 
    5. Hire the one that feels like a partner - It's going to be a journey.
 
-## How you should sell your house
+## How you should sell your house?
 
 As I mentioned above, lack of housing inventory is the biggest problem in real estate. If you're selling a nice $500K-$1.5M house, you have a very hot commodity but you still could probably use help marketing and running the auction-style home sale including dealing with open houses, showings and all the offers. Trust me, you don't want to do that. 
 
