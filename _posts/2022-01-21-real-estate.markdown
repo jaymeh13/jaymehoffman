@@ -1,7 +1,8 @@
 ---
 title: Real Estate
 date: 2022-01-21 21:37:00 Z
-published: false
+permalink: real-estate
+layout: post
 ---
 
 After getting acquired by a top real estate company and building a global real estate app, I constantly get asked about the best ways to buy and sell a house in today's market. Instead of re-typing the same stuff over and over again, here's a quick overview. 
@@ -64,4 +65,18 @@ Outsiders always complain about real estate commissions because they think it's 
 
 ## How you should sell your house
 
-As I mentioned above, lack of housing inventory is the biggest problem in real estate. If you're selling a nice $500K-$1.5M house, you have a very hot commodity. 
+As I mentioned above, lack of housing inventory is the biggest problem in real estate. If you're selling a nice $500K-$1.5M house, you have a very hot commodity but you still could probably use help marketing and running the auction-style home sale including dealing with open houses, showings and all the offers. Trust me, you don't want to do that. 
+
+My best advice is to use the top local agent in your neighborhood but don't pay the full seller's commission.  They have the best network and will work harder than virtual discount brokerages.
+
+1. Go to the top 1-2 agent in your neighborhood. 
+
+   1. You should know them since you get their mail and see their signs every day. 
+
+   2. Why them? Being the top agent in a neighborhood means they likely have dozens of buyers waiting for your house to show up. You will have buyers before you even list. 
+
+2. Ask them if they'll sell for 1% 
+
+   1. Same as Redfin and other discount brokerages
+
+3. Simple as that :) 
