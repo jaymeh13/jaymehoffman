@@ -5,7 +5,7 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-Hi, I'm Jayme Hoffman. I'm the founder and CEO of [Newzip](http://newzip.com/). I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos 🌮.
+Hi, I'm Jayme Hoffman. I'm the Co-founder and CEO of [Maindrop](https://www.maindrop.xyz/). I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos 🌮.
 
 * [twitter](https://twitter.com/jaymehoffman)
 
@@ -15,29 +15,39 @@ Hi, I'm Jayme Hoffman. I'm the founder and CEO of [Newzip](http://newzip.com/). 
 
 ### What I'm working on now?
 
-* Working on something new  👉 [Newzip ](https://www.newzip.com/)(YC W21)
+[Maindrop](https://www.maindrop.xyz/), a marketplace for sending thoughtful NFTs. Maindrop lets users create, personalize and send NFTs to friends & family with or without a wallet 💚
 
 ### Products shipped 🚢
 
-* Jan 2021 - Founder & CEO, [Newzip](http://newzip.com/)
+* March 2022 - Co-founder & CEO, [Maindrop](https://www.maindrop.xyz/)
+
+  * Marketplace for creating, personalizing and send NFTs
+
+
+* February 2022 - [Sweetheartz](https://www.sweetheartz.xyz/)
+
+  * Valentine's Day NFT designed to be shared and minted to a friend's wallet
+
+
+* January 2021 - Founder & CEO, [Newzip](http://newzip.com/)
 
   * Local creator marketplace and monetization tools
 
   * Location-based video and livestream tours
 
 
-* Dec 2020 - Founding Advisor, [Realput](https://www.realput.com/)
+* December 2020 - Founding Advisor, [Realput](https://www.realput.com/)
 
   * World's first labor marketplace for real estate pros
 
-* Feb 2020 - Product Advisor, [StudioNow](http://studionow.com/)
+* February 2020 - Product Advisor, [StudioNow](http://studionow.com/)
 
   * Video production labor marketplace
 
   * SN Producer profiles/discovery
 
 
-* Jan 2020 - Founding Advisor, [Foh&boh](http://fohandboh.com/)
+* January 2020 - Founding Advisor, [Foh&boh](http://fohandboh.com/)
 
   * Hospitality labor marketplace
 
@@ -58,13 +68,13 @@ Hi, I'm Jayme Hoffman. I'm the founder and CEO of [Newzip](http://newzip.com/). 
 
   * KW Homeownership
 
-* Aug. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by KW)
+* August. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by KW)
 
   * Home inspection marketplace
 
   * Transaction dashboard
 
-* Jan. 2015 - Head of Growth, [NC2 Media](http://nc2media.com/) (Lonely Planet Labs)
+* January. 2015 - Head of Growth, [NC2 Media](http://nc2media.com/) (Lonely Planet Labs)
 
   * Lottery 2.0
 
