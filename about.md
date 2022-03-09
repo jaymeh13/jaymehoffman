@@ -19,12 +19,7 @@ Hi, I'm Jayme Hoffman. I'm the Co-founder and CEO of [Maindrop](https://www.main
 
 ### Products shipped 🚢
 
-* March 2022 - Co-founder & CEO, [Maindrop](https://www.maindrop.xyz/)
-
-  * Marketplace for creating, personalizing and send NFTs
-
-
-* February 2022 - [Sweetheartz](https://www.sweetheartz.xyz/)
+* February 2022 - side project, [Sweetheartz](https://www.sweetheartz.xyz/)
 
   * Valentine's Day NFT designed to be shared and minted to a friend's wallet
 
