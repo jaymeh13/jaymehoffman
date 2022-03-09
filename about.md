@@ -15,7 +15,7 @@ Hi, I'm Jayme Hoffman. I'm the Co-founder and CEO of [Maindrop](https://www.main
 
 ### What I'm working on now?
 
-[Maindrop](https://www.maindrop.xyz/), a marketplace for sending thoughtful NFTs. Maindrop lets users create, personalize and send NFTs to friends & family with or without a wallet 💚
+[Maindrop](https://www.maindrop.xyz/) (YC W21), a marketplace for sending thoughtful NFTs. Maindrop lets users create, personalize and send NFTs to friends & family with or without a wallet 💚
 
 ### Products shipped 🚢
 
