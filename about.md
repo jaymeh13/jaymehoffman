@@ -5,11 +5,11 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-Hi, I'm Jayme Hoffman. I'm the Co-founder and CEO of [Maindrop](https://www.maindrop.xyz/). I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos 🌮.
+👋 Hi, I'm Jayme Hoffman
+
+I'm the Co-founder and CEO of [Maindrop](https://www.maindrop.xyz/). I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos 🌮.
 
 * [twitter](https://twitter.com/jaymehoffman)
-
-* [medium](https://medium.com/@jaymehoffman)
 
 * [linkedin](https://www.linkedin.com/in/jaymehoffman/)
 
