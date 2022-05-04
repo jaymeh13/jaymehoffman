@@ -7,7 +7,7 @@ layout: page
 
 👋 Hi, I'm Jayme Hoffman.
 
-I'm the Co-founder and CEO of [Maindrop](https://www.maindrop.xyz/). I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos 🌮.
+I'm the Co-founder and CEO of Maindrop. I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos.
 
 [Twitter](https://twitter.com/jaymehoffman) // [Linkedin](https://www.linkedin.com/in/jaymehoffman/)
 
@@ -66,12 +66,6 @@ I'm the Co-founder and CEO of [Maindrop](https://www.maindrop.xyz/). I work on t
   * Home inspection marketplace
 
   * Transaction dashboard
-
-* January. 2015 - Head of Growth, [NC2 Media](http://nc2media.com/) (Lonely Planet Labs)
-
-  * Lottery 2.0
-
-  * Marketplace for video production
 
 * June 2014 - CEO, [BuyHappy](https://angel.co/buyhappy)
 
