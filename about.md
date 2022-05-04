@@ -9,9 +9,7 @@ Hi, I'm Jayme Hoffman.
 
 I'm the Co-founder and CEO of [Maindrop](https://www.maindrop.xyz/). I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos 🌮.
 
-* [twitter](https://twitter.com/jaymehoffman)
-
-* [linkedin](https://www.linkedin.com/in/jaymehoffman/)
+[Twitter](https://twitter.com/jaymehoffman) // [Linkedin](https://www.linkedin.com/in/jaymehoffman/)
 
 ### What I'm working on now?
 
