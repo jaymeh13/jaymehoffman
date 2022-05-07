@@ -5,7 +5,7 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-### 👋 Hi, I'm Jayme Hoffman. 
+### Hi, I'm Jayme. 
 
 I'm the Co-founder and CEO of Maindrop. I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos.
 
@@ -13,9 +13,9 @@ I'm the Co-founder and CEO of Maindrop. I work on the internet and have a base i
 
 ### What I'm working on now?
 
-[Maindrop](https://www.maindrop.xyz/) (YC W21), a platform for sending NFTs. We make it easy and fun to create and send NFTs to anyone 💚
+[Maindrop](https://www.maindrop.xyz/) (YC W21), a platform for sending NFTs. We make it easy and fun to create and send NFTs to anyone 
 
-### Products shipped 🚢
+### Products shipped 
 
 * February 2022 - side project, [Sweetheartz](https://www.sweetheartz.xyz/)
 
