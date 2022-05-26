@@ -61,7 +61,7 @@ I'm the Co-founder and CEO of Maindrop. I work on the internet and have a base i
 
   * KW Homeownership
 
-* August. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by KW)
+* August. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams)
 
   * Home inspection marketplace
 
