@@ -33,12 +33,6 @@ I'm the Co-founder and CEO of Maindrop. I work on the internet and have a base i
 
   * World's first labor marketplace for real estate pros
 
-* February 2020 - Product Advisor, [StudioNow](http://studionow.com/)
-
-  * Video production labor marketplace
-
-  * SN Producer profiles/discovery
-
 
 * January 2020 - Founding Advisor, [Foh&boh](http://fohandboh.com/)
 
@@ -60,6 +54,10 @@ I'm the Co-founder and CEO of Maindrop. I work on the internet and have a base i
   * KW Guide \+ Guide Builder - End-to-end transaction platform
 
   * KW Homeownership
+
+* December 2017 - Side project, [Texas Token](https://web.archive.org/web/20171223074521/http://texastoken.com/)
+
+  * Open directory of top blockchain startups and people in Texas
 
 * August. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams)
 
