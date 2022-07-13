@@ -13,7 +13,7 @@ I'm the Co-founder and CEO of Maindrop. I work on the internet and have a base i
 
 ### What I'm working on now?
 
-[Maindrop](https://www.maindrop.xyz/) (YC W21), a fun and easy way to send NFTs
+[Maindrop](https://www.maindrop.xyz/) (YC W21), a fun and easy way to send NFT gifts.
 
 ### Products shipped
 
