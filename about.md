@@ -7,7 +7,7 @@ layout: page
 
 ### Hi, I'm Jayme Hoffman.
 
-I'm the Co-founder and CEO of Althing. I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos.
+I'm the Co-founder and CEO of Allthing. I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos.
 
 [Farcaster](https://fcast.me/jayme) / [Twitter](https://twitter.com/jaymehoffman) / [Linkedin](https://www.linkedin.com/in/jaymehoffman/)
 
