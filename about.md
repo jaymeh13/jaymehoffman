@@ -7,15 +7,27 @@ layout: page
 
 ### Hi, I'm Jayme Hoffman.
 
-I'm the Co-founder and CEO of Maindrop. I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos.
+I'm the Co-founder and CEO of Althing. I work on the internet and have a base in Nashville with my wife, Kate, and our two babies. I'm passionate about building beautiful products, thinking with mental models and eating breakfast tacos.
 
 [Twitter](https://twitter.com/jaymehoffman) / [Context](https://context.app/jaymehoffman.eth) / [Linkedin](https://www.linkedin.com/in/jaymehoffman/)
 
 ### What I'm working on now?
 
-[Maindrop](https://www.maindrop.xyz/) (YC W21), a fun and easy way to send NFT gifts.
+* Allthing.xyz
 
 ### Products shipped
+
+* October 2022 - side project, [Launchcaster](https://www.launchcaster.xyz/)
+
+  * Show HN for Web3 - Share & discover the best new web3 projects
+
+* March 2022 - Co-founder & CEO, [Maindrop](https://www.maindrop.xyz/)
+
+  * Email and text NFTs
+
+  * Upload and send NFTs
+
+  * NFT greeting card templates
 
 * February 2022 - side project, [Sweetheartz](https://www.sweetheartz.xyz/)
 
