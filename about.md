@@ -19,7 +19,7 @@ I'm the Co-founder and CEO of [Launcher Labs](https://launcher.xyz/). I work on 
 
 ### Products shipped
 
-* March 2022 - Co-founder & CEO, [Maindrop](https://www.maindrop.xyz/)
+* Co-founder & CEO, [Maindrop](https://www.maindrop.xyz/) - March 2022
 
   * Email and text NFTs
 
@@ -27,24 +27,24 @@ I'm the Co-founder and CEO of [Launcher Labs](https://launcher.xyz/). I work on 
 
   * NFT greeting card templates
 
-* February 2022 - side project, [Sweetheartz](https://www.sweetheartz.xyz/)
+* Side project, [Sweetheartz](https://www.sweetheartz.xyz/) - February 2022
 
   * Valentine's Day NFT designed to be shared and minted to a friend's wallet
 
 
-* January 2021 - Founder & CEO, [Newzip](http://newzip.com/)
+* Founder & CEO, [Newzip](http://newzip.com/) - January 2021
 
   * Local creator marketplace and monetization tools
 
   * Location-based video and livestream tours
 
 
-* December 2020 - Founding Advisor, [Realput](https://www.realput.com/)
+* Founding Advisor, [Realput](https://www.realput.com/) - December 2020
 
   * World's first labor marketplace for real estate pros
 
 
-* January 2020 - Founding Advisor, [Foh&boh](http://fohandboh.com/)
+* Founding Advisor, [Foh&boh](http://fohandboh.com/) - January 2020
 
   * Hospitality labor marketplace
 
@@ -53,7 +53,7 @@ I'm the Co-founder and CEO of [Launcher Labs](https://launcher.xyz/). I work on 
   * Hospitality job board/posts
 
 
-* May 2018 - [Consumer PM](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty
+* [Consumer PM](https://www.linkedin.com/posts/jaymehoffman_make-impact-in-real-estate-check-i-activity-6641050799554256896-f4II), Keller Williams Realty - May 2018
 
   * [KW App](https://apps.apple.com/us/app/kw-buy-sell-real-estate/id652512924)
 
@@ -65,23 +65,23 @@ I'm the Co-founder and CEO of [Launcher Labs](https://launcher.xyz/). I work on 
 
   * KW Homeownership
 
-* December 2017 - Side project, [Texas Token](https://web.archive.org/web/20171223074521/http://texastoken.com/)
+* Side project, [Texas Token](https://web.archive.org/web/20171223074521/http://texastoken.com/) - December 2017
 
   * Open directory of top blockchain projects and people in Texas
 
-* August. 2016 - Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams)
+* Co-founder & CEO, [Homeward.io](https://homeward.io/) (Acquired by Keller Williams) - August. 2016
 
   * Home inspection marketplace
 
   * Transaction dashboard
 
-* June 2014 - CEO, [BuyHappy](https://angel.co/buyhappy)
+* CEO, [BuyHappy](https://angel.co/buyhappy) - June 2014
 
   * Price intelligence dashboard
 
-  * Best price browser extension
+  * Best-price browser extension
 
-* July 2012 - Co-founder & CEO, [Acacia Interactive](https://angel.co/acacia)
+* Co-founder & CEO, [Acacia Interactive](https://angel.co/acacia) - July 2012
 
   * Fetch - share animated messaging
 
@@ -89,4 +89,4 @@ I'm the Co-founder and CEO of [Launcher Labs](https://launcher.xyz/). I work on 
 
   * Kiwi - short square mobile videos
 
-  * Wax 1.0 - tony hawk IRL video competitions
+  * Wax 1.0 - Tony Hawk IRL video competitions
