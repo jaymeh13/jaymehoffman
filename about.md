@@ -7,15 +7,15 @@ layout: page
 
 ### Hi, I'm Jayme Hoffman.
 
-I'm currently building [Launchcaster](https://www.launchcaster.xyz/) & [Allthing](https://www.allthing.xyz/). I work on the internet and have a base in Austin with my wife, Kate, and our two babies. I'm passionate about products, NFTs, hiking, board games, and breakfast tacos.
+I'm Co-founder and CEO of Launcher Labs. I'm working on consumer crypto apps. I work on the internet and have a base in Austin with my wife, Kate, and our two babies. I'm passionate about products, digital assets (NFTs, ABCs, Tokens), AI, trail running, board games and breakfast tacos.
 
 [Farcaster](https://warpcast.com/jayme) / [Twitter](https://twitter.com/jaymehoffman) / [Linkedin](https://www.linkedin.com/in/jaymehoffman/)
 
 ### What I'm working on now?
 
-* [Allthing](https://www.allthing.xyz/) - something new ∀
+* [Launcher](https://launcher.xyz/) - Crypto mini-app platform 
 
-* [Launchcaster](https://www.launchcaster.xyz/) - a place to share and discover new web3 projects
+* [Launchcaster](https://www.launchcaster.xyz/) - Web3 Product Hunt
 
 ### Products shipped
 
