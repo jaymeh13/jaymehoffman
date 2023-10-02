@@ -7,13 +7,13 @@ layout: page
 
 ### Hi, I'm Jayme Hoffman.
 
-I'm Co-founder and CEO of Launcher Labs. I'm working on consumer crypto apps. I work on the internet and have a base in Austin with my wife, Kate, and our two babies. I'm passionate about products, digital assets (NFTs, ABCs, Tokens), AI, trail running, board games and breakfast tacos.
+I'm the Co-founder and CEO of [Launcher Labs](https://launcher.xyz/). I work on the internet and have a base in Austin with my wife, Kate, and our two babies. I'm passionate about products, digital assets, AI, trail running, board games, TexMex, and breakfast tacos.
 
 [Farcaster](https://warpcast.com/jayme) / [Twitter](https://twitter.com/jaymehoffman) / [Linkedin](https://www.linkedin.com/in/jaymehoffman/)
 
 ### What I'm working on now?
 
-* [Launcher](https://launcher.xyz/) - Crypto mini-app platform 
+* [Launcher](https://launcher.xyz/) - Crypto Mini-Apps 
 
 * [Launchcaster](https://www.launchcaster.xyz/) - Web3 Product Hunt
 
