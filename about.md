@@ -7,9 +7,9 @@ layout: page
 
 ### Hi, I'm Jayme Hoffman.
 
-I'm the Co-founder and CEO of Launcher Labs. We're working on [Launchcaster](https://www.launchcaster.xyz/), [Frameboard](https://www.frameboard.com/), and [Launcher](https://launcher.xyz/). I live in Austin with my wife, Kate, and our two babies. I'm passionate about consumer products, digital assets, AI, trail running, board games, TexMex, and breakfast tacos.
+I'm the Co-founder and CEO of Launcher Labs. We're working on [Launchcaster](https://www.launchcaster.xyz/), [Frameboard](https://www.frameboard.com/), and [Launcher](https://launcher.xyz/). I live in Austin with my wife, Kate, and our two babies. I'm passionate about consumer products, decentralized networks and marketplaces, digital assets, AI, trail running, board games, TexMex, and breakfast tacos.
 
-I hang out on [Farcaster](https://warpcast.com/jayme) and write on > [Paragraph](https://paragraph.xyz/@jayme/).
+I hang out on [Farcaster](https://warpcast.com/jayme) and write on [Paragraph](https://paragraph.xyz/@jayme/).
 
 ### What I'm working on now?
 
