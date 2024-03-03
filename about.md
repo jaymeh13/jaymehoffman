@@ -17,7 +17,7 @@ I hang out on [Farcaster](https://warpcast.com/jayme) and write on [Paragraph](h
 
 * [Launchcaster](https://www.launchcaster.xyz/) - Product Hunt for Web3
 
-* [Launcher](https://launcher.xyz/) - Create smart contract mini apps
+* [Launcher](https://launcher.xyz/) - Smart contract mini apps
 
 ### Products shipped
 
