@@ -1,3 +1,1 @@
-# jaymehoffman
-blog
-d
+My personal website.
