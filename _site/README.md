@@ -1,3 +1,3 @@
 # jaymehoffman
-blog
-d
+
+This is my readme 
