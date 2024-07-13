@@ -1,5 +1,5 @@
 ---
-title: Full-Stack Startups
+title: Go Full-Stack
 date: 2019-06-10 02:28:00 Z
 permalink: full-stack
 layout: post
