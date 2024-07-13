@@ -1,5 +1,5 @@
 ---
-title: Quotes to live by
+title: Quotes to Live By
 date: 2018-08-08 00:00:00 Z
 permalink: "/quotes-i-live-by/"
 image: "“/assets/uploads/quotes.png”"
