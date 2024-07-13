@@ -7,7 +7,7 @@ layout: post
 
 After getting acquired by a top real estate company and building a global real estate app, I constantly get asked about the best ways to buy and sell a house in today's market. Instead of re-typing the same stuff over and over again, here's a quick overview.
 
-### Agent commissions aren't really a problem
+### Agent commissions aren't a problem
 
 Outsiders always complain about real estate commissions because they think it's "unfair" but it's not really a problem IMO.
 
@@ -48,7 +48,7 @@ Outsiders always complain about real estate commissions because they think it's 
 
       3. If door knocking isn't an option, mail them a handwritten letter telling them your story and what you're looking for.
 
-   4. Make them a generous offer (all cash, time to move) they would get if they listed their house today and make it easy for them to move out. 
+   4. Make them a generous offer (all cash, time to move) they would get if they listed their house today and make it easy for them to move out.
 
 2. **Path 2 - Get a true local expert**\
    As I mentioned above, a good buyer's agent is worth their weight in gold. They know about deals before everyone else and can work the seller's agent to get your offer(s) seen. Do not use a Redfin/virtual agent. They aren't in the local private networks and they aren't incentivized to work their ass off for you.
@@ -79,4 +79,4 @@ My best advice is to use the top local agent in your neighborhood but don't pay 
 
    1. Same as Redfin and other discount brokerages
 
-3. Simple as that :) 
+3. Simple as that :)
