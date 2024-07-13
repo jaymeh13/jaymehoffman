@@ -1,5 +1,5 @@
 ---
-title: Startup Links
+title: Startup
 date: 2017-06-30 17:50:00 Z
 permalink: links
 layout: post
