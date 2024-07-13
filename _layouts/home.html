@@ -16,7 +16,7 @@ layout: default
     <p><a class="intro-link-all" href="https://jaymehoffman.com/about/">About me →</a></p>
     <p><a class="intro-link-all" href="https://warpcast.com/jayme">Farcaster →</a></p>
     <p><a class="intro-link-all" href="https://paragraph.xyz/@jayme/">Newsletter →</a></p>
-  <h1 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h1>
+  <h1 class="post-list-heading">{{ page.list_title | default: "Blog" }}</h1>
     <ul class="post-list">
       {%- for post in site.posts limit:3 -%}
       <li>
@@ -38,7 +38,7 @@ layout: default
   {%- endif -%}
   
   <div class="tweets">
-    <h1 class="post-list-heading">Tweets</h1>
+    <h1 class="post-list-heading">X</h1>
     <a class="twitter-timeline" href="https://twitter.com/jaymehoffman" data-chrome="nofooter noheader"></a>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
