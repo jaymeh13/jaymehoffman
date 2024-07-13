@@ -2,6 +2,7 @@
 title: Two Paths to Product Market Fit
 date: 2018-08-07 00:00:00 Z
 permalink: "/two-paths-to-product-market-fit/"
+published: false
 description: There are two paths to product market fit (PMF). 1. Start with a market.
   Find a product for the market. 2. Start with a product. Find a market for the product.
 layout: post
