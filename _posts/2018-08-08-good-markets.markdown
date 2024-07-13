@@ -1,5 +1,5 @@
 ---
-title: Good Markets
+title: Attack Good Markets
 date: 2018-08-08 00:00:00 Z
 permalink: "/good-markets/"
 layout: post
