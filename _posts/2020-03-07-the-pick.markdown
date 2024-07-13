@@ -1,8 +1,0 @@
----
-title: The Pick
-date: 2020-03-07 18:59:00 Z
-permalink: the-pick
-external_url: https://medium.com/@jaymehoffman/the-pick-5f5698c13ddd
-layout: external
----
-
