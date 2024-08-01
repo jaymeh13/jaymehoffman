@@ -5,7 +5,7 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-Jayme Hoffman is an entrepreneur, product designer, and developer. He founded Launcher Labs, the makers of [Launchcaster](https://www.launchcaster.xyz/) (a crypto product hunt), Frameboard (a visual curation app and protocol), and Maindrop (Venmo for sending NFTs). Before that, he founded [Fohandboh](https://fohandboh.com/) (acquired by JobGet) and Homeward.io (acquired by Keller Williams), and led consumer products for KWRI.
+Hi, I'm Jayme Hoffman — I'm a product designer, developer, and entrepreneur. I founded Launcher Labs, where we made [Launchcaster](https://www.launchcaster.xyz/) (a crypto product hunt), Frameboard (a visual curation app and protocol), and Maindrop (Venmo for sending NFTs). Before that, I founded [Fohandboh](https://fohandboh.com/) (acquired by JobGet) and Homeward.io (acquired by Keller Williams), and led consumer products for KWRI.
 
 ### What I'm working on now?
 
