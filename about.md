@@ -5,34 +5,28 @@ image: "/assets/og-image.png"
 layout: page
 ---
 
-I'm the Co-founder and CEO of Launcher Labs. We're working on [Launchcaster](https://www.launchcaster.xyz/) and [Frameboard](https://www.frameboard.com/). I live in Austin with my wife, Kate, and our two babies. I'm passionate about consumer products, decentralized networks and marketplaces, digital assets, AI, trail running, board games, TexMex, and breakfast tacos.
-
-I hang out on [Farcaster](https://warpcast.com/jayme) and write on [Paragraph](https://paragraph.xyz/@jayme/).
+Jayme Hoffman is an entrepreneur, product designer, and developer. He founded Launcher Labs, the makers of [Launchcaster](https://www.launchcaster.xyz/) (a crypto product hunt), Frameboard (a visual curation app and protocol), and Maindrop (Venmo for sending NFTs). Before that, he founded [Fohandboh](https://fohandboh.com/) (acquired by JobGet) and Homeward.io (acquired by Keller Williams), and led consumer products for KWRI.
 
 ### What I'm working on now?
 
-* [Frameboard](https://www.frameboard.com/) - Pinterest for Frames
-
-* [Launchcaster](https://www.launchcaster.xyz/) - Product Hunt for Web3
-
-* [Launcher](https://launcher.xyz/) - Smart contract mini apps
+Currently exploring what's next and sharing my learnings on [X:@jaymehoffman](https://x.com/jaymehoffman) and [Farcaster:@jayme](https://warpcast.com/jayme/).
 
 ### Products shipped
 
-* Co-founder & CEO, [Maindrop](https://www.maindrop.xyz/) - March 2022
+* Co-founder & CEO, [Launcher Labs](https://www.launcher.xyz/) - March 2022
 
-  * Email and text NFTs
+  * [Launchcaster](https://www.launchcaster.xyz/) - crypto product hunt
 
-  * Upload and send NFTs
+  * [Frameboard](https://www.frameboard.com/) - app and protocol for visual curation 
 
-  * NFT greeting card templates
+  * [Launcher Actions](https://www.launcher.xyz/create) - Smart contract-based mini-app platform
 
-* Side project, [Sweetheartz](https://www.sweetheartz.xyz/) - February 2022
+  * [Maindrop](https://www.maindrop.xyz/) - Venmo for sending NFTs
 
-  * Valentine's Day NFT designed to be shared and minted to a friend's wallet
+  * [Sweetheartz](https://www.sweetheartz.xyz/) - Valentine's Day NFTs
 
 
-* Founder & CEO, [Newzip](http://newzip.com/) - January 2021
+* Founder & CEO, [Newzip YC W21](http://newzip.com/) - January 2021
 
   * Local creator marketplace and monetization tools
 
