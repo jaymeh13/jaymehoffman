@@ -9,32 +9,11 @@ layout: default
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h1 class="post-list-heading">Jayme Hoffman</h1>
-    <p><a class="intro-link-all" href="https://jaymehoffman.com/about/">About me →</a></p>
-    <p><a class="intro-link-all" href="https://warpcast.com/jayme">Farcaster →</a></p>
-    <p><a class="intro-link-all" href="https://paragraph.xyz/@jayme/">Newsletter →</a></p>
-  {{ page.list_title | default: "Blog" }}
-    <ul class="post-list">
-      {%- for post in site.posts limit:3 -%}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-      <li><a class="post-link-all" href="/posts">See All Posts →</a></li>
-    </ul>
-  {%- endif -%}
-  
+  <h1 class="post-list-heading">Jayme Hoffman</h1>
+  <p><a class="intro-link-all" href="https://jaymehoffman.com/about/">About me →</a></p>
+  <p><a class="intro-link-all" href="https://warpcast.com/jayme">Farcaster →</a></p>
+  <p><a class="intro-link-all" href="https://paragraph.xyz/@jayme/">Newsletter →</a></p>
+    
   <div class="tweets">
     <h1 class="post-list-heading">X</h1>
     <a class="twitter-timeline" href="https://twitter.com/jaymehoffman" data-chrome="nofooter noheader"></a>
