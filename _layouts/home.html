@@ -11,12 +11,10 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h1 class="post-list-heading">Jayme Hoffman</h1>
-    <h3 class="intro-heading">I'm working on 
-      <a class="intro-link-all" href="https://www.launchcaster.xyz/">Launchcaster</a> and <a class="intro-link-all" href="https://www.frameboard.com/">Frameboard</a>.</h3>
-    <p><a class="intro-link-all" href="https://jaymehoffman.com/about/">About me →</a></p>
-    <p><a class="intro-link-all" href="https://warpcast.com/jayme">Farcaster →</a></p>
-    <p><a class="intro-link-all" href="https://paragraph.xyz/@jayme/">Newsletter →</a></p>
-  <h1 class="post-list-heading">{{ page.list_title | default: "Blog" }}</h1>
+    <h3><a class="post-link" href="https://jaymehoffman.com/about/">About me →</a></h3>
+    <h3><a class="post-link" href="https://warpcast.com/jayme">Farcaster →</a></h3>
+    <h3><a class="post-link" href="https://paragraph.xyz/@jayme/">Newsletter →</a></h3>
+  {{ page.list_title | default: "Blog" }}
     <ul class="post-list">
       {%- for post in site.posts limit:3 -%}
       <li>
