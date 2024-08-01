@@ -9,7 +9,7 @@ Jayme Hoffman is an entrepreneur, product designer, and developer. He founded La
 
 ### What I'm working on now?
 
-Currently exploring what's next and sharing my learnings on [X:@jaymehoffman](https://x.com/jaymehoffman) and [Farcaster:@jayme](https://warpcast.com/jayme/).
+I'm currently exploring what's next and sharing my learnings on [X: @jaymehoffman](https://x.com/jaymehoffman) and [Farcaster: @jayme](https://warpcast.com/jayme/).
 
 ### Products shipped
 
