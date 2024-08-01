@@ -9,7 +9,7 @@ Hi, I'm Jayme Hoffman — I'm a product designer, developer, and entrepreneur. I
 
 ### What I'm working on now?
 
-I'm currently exploring what's next and sharing my learnings on [X: @jaymehoffman](https://x.com/jaymehoffman) and [Farcaster: @jayme](https://warpcast.com/jayme/).
+I'm currently exploring what's next and sharing my learnings on [X/@jaymehoffman](https://x.com/jaymehoffman) and [Farcaster/@jayme](https://warpcast.com/jayme/).
 
 ### Products shipped
 
@@ -17,7 +17,7 @@ I'm currently exploring what's next and sharing my learnings on [X: @jaymehoffma
 
   * [Launchcaster](https://www.launchcaster.xyz/) - crypto product hunt
 
-  * [Frameboard](https://www.frameboard.com/) - app and protocol for visual curation 
+  * [Frameboard](https://www.frameboard.com/) - app and protocol for visual curation
 
   * [Launcher Actions](https://www.launcher.xyz/create) - Smart contract-based mini-app platform
 
