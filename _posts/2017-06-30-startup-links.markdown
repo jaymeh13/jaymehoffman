@@ -1,5 +1,5 @@
 ---
-title: Startup
+title: Startup Links
 date: 2017-06-30 17:50:00 Z
 permalink: links
 layout: post
@@ -50,6 +50,8 @@ Here’s a list of startup essays, podcasts, and videos I often revisit.
 ### Product
 
 > And you can always feel product/market fit when it's happening. The customers are buying the product just as fast as you can make it -- or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You're hiring sales and customer support staff as fast as you can. Reporters are calling because they've heard about your hot new thing and they want to talk to you about it. You start getting entrepreneur of the year awards from Harvard Business School. Investment bankers are staking out your house. You could eat free for a year at Buck's. - Pmarca
+
+* [How to get startup ideas - PG](https://paulgraham.com/startupideas.html)
 
 * [Ideas are just a multiplier of execution](https://sivers.org/multiply)
 
