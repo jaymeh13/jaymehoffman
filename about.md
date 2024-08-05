@@ -9,7 +9,7 @@ Hi, I'm Jayme Hoffman — I'm a product designer, developer, and entrepreneur. I
 
 ### What I'm working on now?
 
-I'm currently exploring what's next and sharing my learnings on [X/@jaymehoffman](https://x.com/jaymehoffman) and [Farcaster/@jayme](https://warpcast.com/jayme/).
+Exploring what's next, mostly in AI and crypto, and sharing learnings along the way on [X: @JaymeHoffman](https://x.com/jaymehoffman) and [Farcaster: @Jayme](https://warpcast.com/jayme/).
 
 ### Products shipped
 
