@@ -1,0 +1,30 @@
+---
+title: Jayme Hoffman
+timezone: UTC
+collections:
+  mental-models:
+    title: Mental Models
+    output: true
+    permalink: mental-models
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: jayme@jaymehoffman.com
+google_analytics: UA-124170593-1
+logo: "/assets/jayme-hoffman-logo.png"
+image: "/assets/og-image.png"
+description: Jayme Hoffman's blog
+baseurl: 
+url: 
+twitter_username: jaymehoffman
+twitter:
+  username: jaymehoffman
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
