@@ -7,6 +7,20 @@ body {
     max-width: 650px;
 }
 
+a {
+    color: rgb(29, 155, 240);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.nav {
+    font-size: .8em;
+    color: rgba(0, 0, 0, 0.3);
+}
+
 #main {
     max-width:42em;
     margin:15 auto;
