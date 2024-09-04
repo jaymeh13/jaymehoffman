@@ -20,7 +20,6 @@
 	<meta name="twitter:description" content="Hi, I'm Jayme Hoffman, a product designer, developer, and entrepreneur.">
 	<meta name="twitter:image" content="https://i.imgur.com/rbJQ9PG.jpeg">
 </head>
-
 <body>
 <div id="main">
   <h1>Jayme Hoffman</h1>
@@ -35,6 +34,14 @@
 	</ul>
 
     <h3>Posts on X</h3>
-    <a class="twitter-timeline" href="https://twitter.com/jaymehoffman" data-chrome="nofooter noheader"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-timeline" href="https://twitter.com/jaymehoffman" data-chrome="nofooter noheader" data-tweet-limit="5" data-dnt="true"></a>
 </div> 
+<script>
+	window.addEventListener('load', function() {
+		var script = document.createElement('script');
+		script.src = 'https://platform.twitter.com/widgets.js';
+		script.async = true;
+		document.body.appendChild(script);
+	});
+</script>
 </body>
