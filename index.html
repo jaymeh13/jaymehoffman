@@ -1,10 +1,14 @@
 <html>
 <head>
+    <link rel="preconnect" href="https://pbs.twimg.com">
+    <link rel="preconnect" href="https://platform.twitter.com">
+    <link rel="preconnect" href="https://i.imgur.com">
+    
     <link rel="stylesheet" href="style.css">
 	<title>Jayme Hoffman</title>
     <link rel="icon" href="https://pbs.twimg.com/profile_images/1813401294171717632/HHQeIKsi_400x400.jpg" type="image/x-icon">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Add meta description -->
+    <meta name="description" content="Hi, I'm Jayme Hoffman, a product designer, developer, and entrepreneur.">
 
 	<!-- Facebook Meta Tags -->
 	<meta property="og:url" content="https://jaymehoffman.com/">
@@ -24,23 +28,25 @@
 <div id="main">
   <h1>Jayme Hoffman</h1>
 
-	<p>Product designer, developer, and entrepreneur. More <a href="/about/">about me</a>.</p>
+	<p>Product designer, developer, and entrepreneur.</p>
 	
     <h3>Links</h3>
 	<ul>
-		<li><a href="https://blog.jaymehoffman.com/">Blog</a></li>
+		<li>More <a href="/about/">about me</a></li>
 		<li>Farcaster: <a href="https://warpcast.com/jayme">@Jayme</a></li>
 		<li>X: <a href="https://x.com/jaymehoffman/">@JaymeHoffman</a></li>
-		<li>LinkedIn: <a href="https://www.linkedin.com/in/jaymehoffman/">in/JaymeHoffman</a></li>
+		<li>LinkedIn: <a href="https://www.linkedin.com/in/jaymehoffman/">JaymeHoffman</a></li>
 	</ul>
 
     <h3>Posts on X</h3>
     <a class="twitter-timeline" href="https://twitter.com/jaymehoffman" data-chrome="nofooter noheader" data-tweet-limit="5" data-dnt="true"></a>
 </div> 
 <script>
-	window.addEventListener('load', function() {
+	// Load Twitter widget after page content
+	window.addEventListener('DOMContentLoaded', function() {
 		var script = document.createElement('script');
 		script.src = 'https://platform.twitter.com/widgets.js';
+		
 		script.async = true;
 		document.body.appendChild(script);
 	});
