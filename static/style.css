@@ -27,6 +27,10 @@ a:hover {
     margin: 0 auto;
 }
 
+ul {
+    padding-inline-start: 20px;
+}
+
 /* Components */
 .nav {
     font-size: .8em;
