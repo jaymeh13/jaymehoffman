@@ -81,3 +81,10 @@ blockquote p:last-child {
         max-width: 100%;
     }
 }
+
+/* Timestamp */
+.timestamp {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 0.9em;
+    margin: -0.5em 0 1.5em 0;
+}
