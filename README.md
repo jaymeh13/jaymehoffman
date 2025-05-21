@@ -1,1 +1,3 @@
-My personal website. 
+Jayme Hoffman's personal website. 
+
+jaymehoffman.com
